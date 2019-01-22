@@ -1,0 +1,50 @@
+package Football_Manager;
+
+import java.util.*;
+import java.text.*;
+
+public class Football_Manager {
+
+	public static void main(String[] args) {
+		League_Manager pl = new Premier_League(18);
+		League_Manager ll = new La_Liga(18);
+
+	}
+	
+	private void display_Menu() 
+	{
+		while(true) 
+		{
+			System.out.println("Premier League Menu: ");
+			System.out.println("1 - Create New Team and Add it to League ");
+			System.out.println("2 - Delete Existing Team from League ");
+			System.out.println("3 - Display Statistics for Team");
+			System.out.println("4 - Display the Premier League Table");
+			System.out.println("5 - Add a Played Match");
+			System.out.println("6 - Display Calendar and Find Match");
+			String line = scanner.nextLine();
+			int command = 0;
+			try {
+				command = Integer.parseInt(line);
+			}catch(Exception e) { }
+			switch(command) 
+			{
+				case 1 :
+					add_Team(); break;
+				case 2 :
+					delete_Team(); break;
+				case 3 : 
+					display_Statistics(); break;
+				case 4 :
+					display_League_Table(); break;
+				case 5 :
+					add_Played_Match(); break;
+				case 6 :
+					display_Calendar(); break;
+				default:
+				System.out.println("Wrong Command");	
+			}
+		}
+	}
+
+}

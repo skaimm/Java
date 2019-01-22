@@ -1,0 +1,13 @@
+package Football_Manager;
+
+
+import java.text.ParseException;
+import java.text.SimpleDateFormat;
+import java.util.*;
+
+public class La_Liga extends League {
+
+	public La_Liga(String league_name, int number_Of_Clubs) {
+		super(league_name, number_Of_Clubs);
+	}
+}

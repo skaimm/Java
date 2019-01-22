@@ -1,0 +1,42 @@
+package Football_Manager;
+
+public class La_Liga implements League_Manager {
+	
+	
+
+	public void add_Team() {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void delete_Team() {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void display_Statistics() {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void display_League_Table() {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void display_Calendar() {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void add_Played_Match() {
+		// TODO Auto-generated method stub
+
+	}
+
+}

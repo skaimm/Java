@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="Questions.Basketball"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="Project.Property"/>
+    <fullyQualifiedTypeName name="Project.Apartment"/>
+    <fullyQualifiedTypeName name="Common.Rentable"/>
+    <fullyQualifiedTypeName name="com.sun.xml.internal.bind.v2.schemagen.xmlschema.List"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="sun.awt.www.content.audio.x_aiff"/>
+    <fullyQualifiedTypeName name="java.lang.Object"/>
+    <fullyQualifiedTypeName name="com.sun.management.GarbageCollectionNotificationInfo"/>
+    <fullyQualifiedTypeName name="java.io.BufferedReader"/>
+    <fullyQualifiedTypeName name="java.io.FileReader"/>
+    <fullyQualifiedTypeName name="Realestate.ApartmentBlock"/>
+    <fullyQualifiedTypeName name="java.lang.Double"/>
+    <fullyQualifiedTypeName name="java.lang.Boolean"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="Realestate.FamilyApartment"/>
+    <fullyQualifiedTypeName name="Realestate.Garage"/>
+    <fullyQualifiedTypeName name="com.sun.java.util.jar.pack.Instruction.Switch"/>
+    <fullyQualifiedTypeName name="java.io.BufferedWriter"/>
+    <fullyQualifiedTypeName name="java.io.File"/>
+    <fullyQualifiedTypeName name="jdk.jfr.events.FileWriteEvent"/>
+    <fullyQualifiedTypeName name="java.io.FileWriter"/>
+    <fullyQualifiedTypeName name="java.io.IOException"/>
+    <fullyQualifiedTypeName name="jdk.nashorn.internal.ir.Block"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="Realestate.RentedApartment"/>
+    <fullyQualifiedTypeName name="Common.Property"/>
+    <fullyQualifiedTypeName name="Realestate.Apartment"/>
+</qualifiedTypeNameHistroy>

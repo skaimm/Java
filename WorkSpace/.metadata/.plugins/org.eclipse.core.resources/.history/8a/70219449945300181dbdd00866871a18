@@ -1,0 +1,10 @@
+package Football_Manager;
+
+public class Football_Manager {
+
+	public static void main(String[] args) {
+		Premier_League plm = new Premier_League(5);
+
+	}
+
+}

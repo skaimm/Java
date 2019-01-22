@@ -1,0 +1,6 @@
+package Football_Manager;
+
+public interface League_Manager {
+	
+
+}
