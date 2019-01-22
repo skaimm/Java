@@ -1,0 +1,8 @@
+rentedapartment;1500;2;5;100
+familyapartment;1600;1;2;400
+garage;1500;2;500;heatable;yes
+familyapartment;1600;1;3;400
+rentedapartment;1600;1;10;400
+familyapartment;1600;1;5;400
+familyapartment;1600;1;1;400
+familyapartment;1600;1;3;400
