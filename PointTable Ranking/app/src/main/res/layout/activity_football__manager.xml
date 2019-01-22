@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.ultraslan.football_manager.Football_Manager">
+
+    <TextView
+        android:id="@+id/tv_league"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:gravity="center"
+        android:text="LEAGUE"
+        android:textAlignment="gravity"
+        android:textColor="?attr/textColorError"
+        android:textSize="18sp"
+        android:textStyle="bold|italic"
+        app:layout_constraintBottom_toTopOf="@+id/leagues_spinner"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Spinner
+        android:id="@+id/leagues_spinner"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        app:layout_constraintBottom_toTopOf="@+id/first_layout"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tv_league" />
+
+    <RelativeLayout
+        android:id="@+id/first_layout"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginBottom="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/leagues_spinner">
+
+        <include
+            android:id="@+id/include_leaque_profile"
+            layout="@layout/leaque_profile"
+            android:visibility="visible" />
+
+        <include
+            android:id="@+id/include_add_leaque_layout"
+            layout="@layout/add_leaque_layout"
+            android:visibility="invisible" />
+
+        <include
+            android:id="@+id/include_add_club_layout"
+            layout="@layout/add_clubs_layout"
+            android:visibility="invisible" />
+
+        <include
+            android:id="@+id/include_show_club_details"
+            layout="@layout/show_club_details"
+            android:visibility="invisible"/>
+
+        <include
+            android:id="@+id/include_add_matches_layout"
+            layout="@layout/add_matches_layout"
+            android:visibility="invisible"/>
+
+        <include
+            android:id="@+id/include_date_layout"
+            layout="@layout/date_layout"
+            android:visibility="invisible"/>
+
+    </RelativeLayout>
+
+</android.support.constraint.ConstraintLayout>

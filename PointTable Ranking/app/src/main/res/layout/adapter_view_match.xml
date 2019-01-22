@@ -1,0 +1,59 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:weightSum="100"
+    android:orientation="horizontal">
+
+    <TextView
+        android:id="@+id/tvshowdate"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="25"
+        android:gravity="center"
+        android:text="10.10.2018" />
+
+    <TextView
+        android:id="@+id/tvshowhomename"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="25"
+        android:gravity="right"
+        android:text="HOME TEAM" />
+
+    <TextView
+        android:id="@+id/tvshowhomescr"
+        android:layout_width="10dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="10"
+        android:gravity="right"
+        android:text="2" />
+
+    <TextView
+        android:id="@+id/tvspace"
+        android:layout_width="10dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="5"
+        android:gravity="center"
+        android:text=" - " />
+
+    <TextView
+        android:id="@+id/tvshowawaycsr"
+        android:layout_width="10dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="10"
+        android:gravity="left"
+        android:text="4" />
+
+    <TextView
+        android:id="@+id/tvshowawayname"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="25"
+        android:gravity="left"
+        android:text="AWAY TEAM" />
+
+
+</LinearLayout>
