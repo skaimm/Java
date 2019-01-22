@@ -1,0 +1,138 @@
+<resources>
+    <string name="app_name">WMemorization</string>
+    <string name="email">ua.smt@hotmail.com</string>
+
+    //DB NAMES
+    <string name="dbname_users">users</string>
+    <string name="dbname_words">words</string>
+    <string name="dbname_user_words">user_words</string>
+    <string name="dbname_store">store</string>
+
+    //DB FIELDS
+    <string name="field_list">wordslist</string>
+    <string name="field_wordcount">countwordsofdaily</string>
+    <string name="field_monday">monday</string>
+    <string name="field_tuesday">tuesday</string>
+    <string name="field_wednesday">wednesday</string>
+    <string name="field_thursday">thursday</string>
+    <string name="field_friday">friday</string>
+    <string name="field_saturday">saturday</string>
+    <string name="field_sunday">sunday</string>
+    <string name="field_allmean">allmeans</string>
+    <string name="field_limitofword">limitofwords</string>
+    <string name="field_hour">hour</string>
+    <string name="field_ad">ad</string>
+    <string name="field_wordoldnew">isitnew</string>
+    <string name="field_worddate">studydate</string>
+    <string name="field_wordsituation">situation</string>
+    <string name="field_wordlist">wordslist</string>
+
+    // ceviri
+    <string name="new_word">new_word</string>
+
+    // FRAGMENT NAMES
+    <string name="start_fragment">HOME PAGE</string>
+    <string name="fragment_studying">STUDYING PAGE</string>
+    <string name="fragment_study">STUDY PAGE</string>
+    <string name="fragment_addword">ADD WORD PAGE</string>
+    <string name="fragment_detail">DETAIL PAGE</string>
+    <string name="fragment_talep">TALEP PAGE</string>
+    <string name="fragment_store">STORE PAGE</string>
+    <string name="fragment_settings">SETTINGS PAGE</string>
+    <string name="fragment_repeating">REPEAT PAGE</string>
+    <string name="fragment_myword">MY WORD PAGE</string>
+    <string name="fragment_help">HELP PAGE</string>
+
+    // Kelimeler
+    <string name="addpage_buywords">Kelime Satın Al</string>
+    <string name="addpage_addword">Kelimemi Ekle</string>
+    <string name="addpage_mean5">5. Anlamını Ekle</string>
+    <string name="addpage_mean4">4. Anlamını Yaz</string>
+    <string name="addpage_mean3">3. Anlamını Yaz</string>
+    <string name="addpage_mean2">2. Anlamını Yaz</string>
+    <string name="addpage_mean1">1. Anlamını Yaz</string>
+    <string name="addpage_word">Kelimeyi Yaz</string>
+    <string name="helppage_explanation">Açıklama Yazılıcak</string>
+    <string name="homepage_mywords">Kelimelerim</string>
+    <string name="homepage_study">Çalışma</string>
+    <string name="homepage_store">Mağaza</string>
+    <string name="homepage_settings">Ayarlar</string>
+    <string name="homepage_help">Yardım</string>
+    <string name="homepage_talep">İletişim</string>
+    <string name="mywordpage_addword">Kelime Ekle</string>
+    <string name="repeatpage_infoanswer">NE BİLDİĞİNE BAKALIM</string>
+    <string name="repeatpage_mean1">1. Anlamını Yaz</string>
+    <string name="repeatpage_mean2">2. Anlamını Yaz</string>
+    <string name="repeatpage_mean3">3. Anlamını Yaz</string>
+    <string name="repeatpage_mean4">4. Anlamını Yaz</string>
+    <string name="repeatpage_mean5">5. Anlamını Yaz</string>
+    <string name="repeatpage_accept">Onayla</string>
+    <string name="settingpage_settinginfo">AYARLAR</string>
+    <string name="repeatpage_allmean">Her Anlamını Öğren</string>
+    <string name="repeatpage_apply">Onayla</string>
+    <string name="repeatpage_cbad">Reklamları Kaldır</string>
+    <string name="studyingpage_prev">GERİ</string>
+    <string name="studyingpage_next">İLERİ</string>
+    <string name="studypage_details">Kelime Durumun</string>
+    <string name="studypage_repeat">TEKRAR ET</string>
+    <string name="studypage_study">KELİME ÇALIŞ</string>
+    <string name="taleppage_send">Gönder</string>
+    <string name="taleppage_hintinfo">Şikayet,İstek ve Önerinizi Burdan Bize Ulaştırabilirsiniz. Teşekkürler.</string>
+    <string name="talepfrag_email">ua.smt@hotmail.com</string>
+    <string name="talepfrag_subject">Şikayet/Talep</string>
+    <string name="talepfrag_emailclient">Uygun E-mail Uygulaması Seçin</string>
+    <string name="addwordfrag_info">Kelime Kaydedildi</string>
+    <string name="addwordfrag_warninfo">Kelime ve İlk Anlamı Boş Olamaz.</string>
+    <string name="detailfrag_words">Kelime</string>
+    <string name="detailfrag_wordsstudy">ÇALIŞMA</string>
+    <string name="detailfrag_wordsdaily1">GÜNLÜK 1</string>
+    <string name="detailfrag_wordsdaily2">GÜNLÜK 2</string>
+    <string name="detailfrag_wordsdaily3">GÜNLÜK 3</string>
+    <string name="detailfrag_wordsdaily4">2 GÜNDE 1</string>
+    <string name="detailfrag_wordsdaily5">3 GÜNDE 1</string>
+    <string name="detailfrag_wordsdaily6">7 GÜNDE 1</string>
+    <string name="detailfrag_wordsdaily7">15 GÜNDE 1</string>
+    <string name="detailfrag_wordsdaily8">30 GÜNDE 1</string>
+    <string name="detailfrag_wordsdaily9">60 GÜNDE 1</string>
+    <string name="detailfrag_wordsdaily10">120 GÜNDE 1</string>
+    <string name="detailfrag_wordsdaily11">180 GÜNDE 1</string>
+    <string name="detailfrag_wordsmemorized">EZBERLENEN</string>
+    <string name="mywordfrag_alertdelete">kelimesini silmek istiyor musun ?</string>
+    <string name="mywordfrag_alertdeleteqtitle">KELİMEYİ SİL!</string>
+    <string name="mywordfrag_alertwordquestion">kelimesini çalışma listesine ekle/çıkar!</string>
+    <string name="mywordfrag_eklecikarqtitle">KELİMEYİ EKLE/ÇIKAR</string>
+    <string name="mywordfrag_deletewordqansweryes">EVET</string>
+    <string name="mywordfrag_deletewordqansweradd">EKLE</string>
+    <string name="mywordfrag_deletewordqanswermin">ÇIKAR</string>
+    <string name="mywordfrag_deletewordqanswercan">İPTAL</string>
+    <string name="repeatfrag_infoafterstudy">Bugün için Tekrarlamanız Gereken Kelimeleri Bitirdiniz. Tebrikler.</string>
+    <string name="repeatfrag_password">Tebrikler...</string>
+    <string name="repeatfrag_failword">Daha Fazla Çalışmalısın.</string>
+    <string name="storefrag_question">Satın Almak İstiyor musunuz ? Ürün :</string>
+    <string name="studyfrag_infostudy">Çalışmanız Gereken Kelimeleri Bitirdiniz. Tebrikler.</string>
+    <string name="loginactivity_emptyfield">Lütfen Bütün Alanları Doldurunuz.</string>
+    <string name="loginactivity_emailverification">Email Adresinizi Kontrol Edin ve Onaylayın.</string>
+    <string name="loginactivity_authfailed">Giriş Başarısız.</string>
+    <string name="loginactivity_login">GİRİŞ</string>
+    <string name="loginactivity_newaccount">Hesabınız Yok mu ?</string>
+    <string name="registrationactivity_emailhint">E-Mail</string>
+    <string name="registrationactivity_namehint">İsim Soyisim</string>
+    <string name="registrationactivity_passwordhint">Şifre</string>
+    <string name="registrationactivity_register">Kayıt Ol</string>
+    <string name="registrationactivity_info">YENİ KULLANICI KAYDI</string>
+    <string name="registrationactivity_success">Kayıt Başarılı, E-mail Adresinizi Kontrol Ediniz.</string>
+    <string name="registrationactivity_sameemail">E-mail Kullanılıyor.</string>
+    <string name="registration_emailverification">E-mail Onaylanamadı Tekrar Deneyin.</string>
+    <string name="registration_emailveriefore">Bilgilerinizi Tekrar Kontrol Ediniz.</string>
+    <string name="notificationtitle">HATIRLATMA</string>
+    <string name="notificationtext">Günlük Kelime Çalışmanızı Unutmayın. İyi Çalışmalar..</string>
+    <string name="controlconnection">İnternet Bağlantızı Kontrol Ediniz.</string>
+    <string name="mywordfrag_alertsil">Sil</string>
+    <string name="mywordfrag_alertcikar">Çalışma Listesine Ekle/Çıkar</string>
+    <string name="banner_ad_unit_id">ca-app-pub-2648309604179255/2458159452</string>
+    <string name="banner_app_id">ca-app-pub-2648309604179255~9239190229</string>
+    <string name="mywordfrag_infoword">Kelime</string>
+    <string name="field_ofwords">tureng</string>
+
+
+</resources>

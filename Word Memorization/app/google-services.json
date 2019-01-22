@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "319372457527",
+    "firebase_url": "https://wmemorization.firebaseio.com",
+    "project_id": "wmemorization",
+    "storage_bucket": "wmemorization.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319372457527:android:26b73b1de3cee898",
+        "android_client_info": {
+          "package_name": "com.example.ultraslan.wordmemorization"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "319372457527-vug4rv2iu36ntdap5vv348edvaa6nqv1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ultraslan.wordmemorization",
+            "certificate_hash": "ce3206b9d61bc969593afba16d578b28df0e9b9a"
+          }
+        },
+        {
+          "client_id": "319372457527-7gvjfc5jdf07k8pab43i99l79atrbjf8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAM3JHekIa0z06QcAFcQRFnKk0wSrCAmY4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "319372457527-7gvjfc5jdf07k8pab43i99l79atrbjf8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

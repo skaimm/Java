@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:orientation="vertical"
+        android:background="@drawable/yellowbutton">
+
+        <TextView
+            android:id="@+id/tv_storeinfo"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:gravity="center"
+            android:textStyle="bold"
+            android:text="A2 LEVEL - 1150 WORDS"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/tv_storeprice"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:gravity="center"
+            android:text="10 TL"
+            android:textSize="18sp" />
+    </LinearLayout>
+</RelativeLayout>

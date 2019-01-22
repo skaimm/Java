@@ -1,0 +1,131 @@
+<merge xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/res-auto">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:weightSum="50"
+            android:layout_margin="10dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="46"
+                android:orientation="vertical">
+
+                <EditText
+                    android:id="@+id/et_wordnew"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:background="@drawable/redbuttonclicked"
+                    android:textStyle="bold"
+                    android:gravity="center"
+                    android:textSize="18sp"
+                    android:ems="10"
+                    android:inputType="textPersonName"
+                    android:hint="@string/addpage_word"
+                    android:layout_marginVertical="15dp"/>
+
+                <EditText
+                    android:id="@+id/et_wordmean"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:background="@drawable/yellowbutton"
+                    android:textStyle="bold"
+                    android:gravity="center"
+                    android:textSize="18sp"
+                    android:ems="10"
+                    android:hint="@string/addpage_mean1"
+                    android:inputType="textPersonName" />
+
+                <EditText
+                    android:id="@+id/et_wordmean2"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:background="@drawable/yellowbutton"
+                    android:textStyle="bold"
+                    android:gravity="center"
+                    android:textSize="18sp"
+                    android:ems="10"
+                    android:hint="@string/addpage_mean2"
+                    android:inputType="textPersonName" />
+
+                <EditText
+                    android:id="@+id/et_wordmean3"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:background="@drawable/yellowbutton"
+                    android:textStyle="bold"
+                    android:gravity="center"
+                    android:textSize="18sp"
+                    android:ems="10"
+                    android:hint="@string/addpage_mean3"
+                    android:inputType="textPersonName" />
+
+                <EditText
+                    android:id="@+id/et_wordmean4"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:background="@drawable/yellowbutton"
+                    android:textStyle="bold"
+                    android:gravity="center"
+                    android:textSize="18sp"
+                    android:ems="10"
+                    android:hint="@string/addpage_mean4"
+                    android:inputType="textPersonName" />
+
+                <EditText
+                    android:id="@+id/et_wordmean5"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:background="@drawable/yellowbutton"
+                    android:textStyle="bold"
+                    android:gravity="center"
+                    android:textSize="18sp"
+                    android:ems="10"
+                    android:hint="@string/addpage_mean5"
+                    android:inputType="textPersonName" />
+
+            </LinearLayout>
+
+            <Button
+                android:id="@+id/btn_wordadd"
+                android:layout_width="200dp"
+                android:layout_height="50dp"
+                android:text="@string/addpage_addword"
+                android:textColor="#FFF"
+                android:layout_weight="1"
+                android:background="@drawable/blackbuttonclicked"
+                android:layout_gravity="center"/>
+
+            <Button
+                android:id="@+id/btn_wordback"
+                android:layout_width="70dp"
+                android:layout_height="50dp"
+                android:layout_weight="1"
+                android:background="@drawable/arrowback"
+                android:layout_marginBottom="20dp"
+                android:layout_gravity="center"/>
+
+            <com.google.android.gms.ads.AdView
+                android:id="@+id/adView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_alignParentBottom="true"
+                android:layout_weight="1"
+                android:layout_gravity="center"
+                ads:adSize="BANNER"
+                ads:adUnitId="@string/banner_ad_unit_id">
+            </com.google.android.gms.ads.AdView>
+
+        </LinearLayout>
+
+    </RelativeLayout>
+</merge>
