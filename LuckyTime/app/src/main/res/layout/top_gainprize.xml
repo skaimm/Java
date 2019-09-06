@@ -1,0 +1,51 @@
+<merge xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/res-auto">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <RelativeLayout
+            android:id="@+id/titlelayout"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:background="@drawable/background_gradient">
+
+            <ImageView
+                android:id="@+id/im_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@mipmap/ic_user"
+                android:scaleType="fitXY"
+                android:layout_marginTop="5dp"
+                android:gravity="center_vertical"
+                android:layout_marginLeft="20dp"/>
+            <ImageView
+                android:id="@+id/logo"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:background="@drawable/logowriting"
+                android:gravity="center"
+                android:scaleType="fitXY"
+                android:layout_toRightOf="@+id/im_title"/>
+
+            <TextView
+                android:id="@+id/tv_rip"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:drawableEnd="@drawable/ic_rip"
+                android:drawableRight="@drawable/ic_rip"
+                android:drawablePadding="5dp"
+                android:textAlignment="center"
+                android:layout_marginTop="5dp"
+                android:gravity="center"
+                android:layout_marginRight="20dp"
+                android:layout_alignParentRight="true"
+                android:textSize="15sp"
+                android:textStyle="bold"
+                android:textColor="@color/black" />
+        </RelativeLayout>
+
+    </RelativeLayout>
+</merge>

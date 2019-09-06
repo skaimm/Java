@@ -1,0 +1,540 @@
+﻿<resources>
+    <string name="app_name" translatable="false">LuckTime</string>
+
+
+    <string name="facebook_app_id" translatable="false">244092392933033</string>
+    <string name="fb_login_protocol_scheme" translatable="false">fb244092392933033</string>
+
+    <string name="profilereklam">Watching Ad :</string>
+    <string name="infojoin">You can\'t jon in a row.At least you must watch an add</string>
+    <string name="buttonnojoin">Haven\'t Started Yet.</string>
+    <string name="buttonfinishedwait">Waiting the Results...</string>
+    <string name="sozlesmetamam">Okay</string>
+    <string name="adcantload">Could not load Ads. Try Again.</string>
+    <string name="loginactivity_emailverification">Check your E-mail Address</string>
+    <string name="loginactivity_authfailed">Login Failed.</string>
+    <string name="loginactivity_emptyfield">Please Fill in all Fields.</string>
+    <string name="registrationactivity_success">Registration Successful</string>
+    <string name="registrationactivity_sameemail">E-mail already exists.</string>
+    <string name="loginactivity_authsucces">Login Successful.</string>
+    <string name="buttonizle">Watch Ad</string>
+    <string name="hinpromotion">Promotion Code</string>
+    <string name="cancel">Cancel</string>
+    <string name="fragmentizleme">WIN</string>
+    <string name="fragmentmagaza">LUCK</string>
+    <string name="fragmenttahmin">Estimation</string>
+    <string name="hintname">Name - Surname</string>
+    <string name="hintpassword">Password</string>
+    <string name="openbox">Open it.</string>
+    <string name="noboxinfo">You have no any Chest</string>
+    <string name="lostinfo">LOST</string>
+    <string name="photouploaded">Picture Loaded</string>
+    <string name="photouploading">Loading...</string>
+    <string name="photouploadingerror">Error Loading</string>
+    <string name="prizetablo">TABLE OF REWARD</string>
+    <string name="promotionused">You already used a Promotion Code</string>
+    <string name="promotionwrong">Invalid Code</string>
+    <string name="registerinfo">REGISTER PAGE</string>
+    <string name="tahminucret">Price</string>
+    <string name="tahminodul">Prize</string>
+    <string name="tahminkapanma">Closure Date</string>
+    <string name="tahminfinished">FINISHED</string>
+    <string name="tahminclosed">CLOSED. Waiting of Results..</string>
+    <string name="wantopen">, Do you want to open it ?</string>
+    <string name="yes">Yes</string>
+    <string name="yourtahmin">Your estimate :</string>
+    <string name="textlogintoreg">You have not an account yet ?</string>
+    <string name="tahminwait">Please Wait for a new Question.</string>
+    <string name="silverinfo">Silver Chest</string>
+    <string name="sansgumus">Silver Luck</string>
+    <string name="sansbronz">Bronze Luck</string>
+    <string name="sansaltin">Golden Luck</string>
+    <string name="prizelistucret">Price of Prize :</string>
+    <string name="prizelistodul">Prize Name :</string>
+    <string name="emailonayinfo">Check Your E-mail Address for Member Activation</string>
+    <string name="acceptregister">You must accept the terms to become a member.</string>
+    <string name="errorverify">Verification not successful. Try Again.</string>
+    <string name="successverify">Check Your E-mail Address for Member Activation.</string>
+    <string name="errorregister">Registration not successful, E-mail address could be exists.</string>
+    <string name="controlconnection">Check your Internet Connection.</string>
+    <string name="goldinfo">Golden Chest</string>
+    <string name="prizelistfirst">Momentary Owner :</string>
+    <string name="gainedgold">You won the Golden Chest.</string>
+    <string name="buttonfirst">You are Ahead.</string>
+    <string name="bronzinfo">Bronze Chest</string>
+    <string name="gainedbronz">You won the Bronze Chest.</string>
+    <string name="duelloduruminfo">DAILY RANKING</string>
+    <string name="duellodurumduninfo">YESTERDAY</string>
+    <string name="buttonlogin">Log In</string>
+    <string name="duelloinfo1">DAILY WATCHING ADS</string>
+    <string name="gainedsilver">You won the Silver Chest.</string>
+    <string name="sansgumusinfo">Each of the 50 people earn the Silver Chest.</string>
+    <string name="sansaltininfo">Each of the 100 people earn the Golden Chest.</string>
+    <string name="sansbronzinfo">Each of the 25 people earn the Bronze Chest.</string>
+    <string name="duelloinfo2">"From 00:00 to 23:59 "</string>
+    <string name="prizelistkatilimkalan">Remaining Attendance :</string>
+    <string name="prizelistkatilim">Attendance :</string>
+    <string name="buttonjoin">Join</string>
+    <string name="buttonfinished">Finished</string>
+    <string name="buttonregister">Register</string>
+    <string name="buttonwin">Winner :</string>
+    <string name="buttonwon">YOU WON</string>
+    <string name="buttonproonay">"Confirmation "</string>
+    <string name="duelloizlemeinfo">Watching Ad</string>
+    <string name="duelloinfo3">Watch Ad and Earn Rewards</string>
+    <string name="askpayrip">RİP, Do you want to confirm ?</string>
+    <string name="gainedrip">RİP, You Earned.</string>
+    <string name="sansinfo">TRY YOUR LUCKY (1 RİP)</string>
+    <string name="buttontryagain">Try Again</string>
+    <string name="buttonnorip">You have no enough RİP</string>
+    <string name="buttoninitial">ADS INITIALIZING </string>
+
+    //ADMOB
+    <string name="UNITYID" translatable="false">2829579</string>
+    <string name="ADMOBKEY" translatable="false">ca-app-pub-2648309604179255~4302093668</string>
+    <string name="ADMOBREWARDEDKEY" translatable="false">ca-app-pub-2648309604179255/8349149888</string>
+    <string name="ADMOBBANNERKEY" translatable="false">ca-app-pub-2648309604179255/6768099542</string>
+    <string name="admin" translatable="false">yO362F50dtQcMh3yaNsUFvn5O5J2</string>
+    <string name="timezone" translatable="false">Asia/Istanbul</string>
+    <string name="timeformat" translatable="false">dd/MM/yyyy</string>
+    <string name="timehourformat" translatable="false">HH:mm</string>
+
+    //database Name
+    <string name="dbname_users" translatable="false">users</string>
+    <string name="dbname_raffle" translatable="false">raffle</string>
+    <string name="dbname_promotions" translatable="false">promotions</string>
+    <string name="dbname_tahmin" translatable="false">tahmin</string>
+    <string name="dbname_odul" translatable="false">duelloodul</string>
+    <string name="dbname_box" translatable="false">boxes</string>
+    <string name="dbname_duello" translatable="false">duello</string>
+    <string name="dbname_prize" translatable="false">prize</string>
+    <string name="dbname_tahminoyna" translatable="false">tahminoynayan</string>
+    <string name="dbname_duellokazanan" translatable="false">duellokazanan</string>
+    <string name="dbname_rafflegift" translatable="false">rafflegift</string>
+    <string name="dbname_money" translatable="false">money</string>
+
+
+    //DataBase Fields
+    <string name="field_user_id" translatable="false">user_id</string>
+    <string name="field_miktar" translatable="false">miktar</string>
+    <string name="field_iban" translatable="false">iban</string>
+    <string name="field_sonucbilen" translatable="false">sonuc_bilen</string>
+    <string name="field_altin" translatable="false">altin</string>
+    <string name="field_gumus" translatable="false">gumus</string>
+    <string name="field_bronz" translatable="false">bronz</string>
+    <string name="field_altinbox" translatable="false">altinbox</string>
+    <string name="field_gumusbox" translatable="false">gumusbox</string>
+    <string name="field_bronzbox" translatable="false">bronzbox</string>
+    <string name="field_rip" translatable="false">rip</string>
+    <string name="field_sira" translatable="false">sira</string>
+    <string name="field_dunonay" translatable="false">dunonay</string>
+    <string name="field_date" translatable="false">date</string>
+    <string name="field_kazanan" translatable="false">wonname</string>
+    <string name="field_siradun" translatable="false">siradun</string>
+    <string name="field_izledun" translatable="false">izlemedun</string>
+    <string name="field_million" translatable="false">millions</string>
+    <string name="field_kazananpuan" translatable="false">kazananpuan</string>
+    <string name="field_kazananuser" translatable="false">kazananuser</string>
+    <string name="field_kazananuserid" translatable="false">kazananuserid</string>
+    <string name="field_katilim" translatable="false">katilim</string>
+    <string name="field_situationcevap" translatable="false">situation_cevap</string>
+    <string name="field_sonuctoplam" translatable="false">sonuc_toplam</string>
+    <string name="field_situationoynanma" translatable="false">situation_oynanma</string>
+    <string name="field_adress" translatable="false">adres</string>
+    <string name="field_sanssira" translatable="false">sans_sira</string>
+    <string name="field_kullanan" translatable="false">kullanan</string>
+    <string name="field_watchad" translatable="false">watch_ad</string>
+    <string name="field_izleme" translatable="false">izleme</string>
+    <string name="field_code" translatable="false">codes</string>
+    <string name="field_durum" translatable="false">durum</string>
+    <string name="field_odul" translatable="false">odul</string>
+    <string name="field_situationyayin" translatable="false">situation_yayin</string>
+    <string name="field_onay" translatable="false">onay</string>
+    <string name="field_email" translatable="false">email</string>
+    <string name="field_money" translatable="false">money</string>
+    <string name="field_odulsira1" translatable="false">sira1odul</string>
+    <string name="field_userpicture" translatable="false">picture</string>
+
+    <string name="emailadress" translatable="false">lucktimeapp@gmail.com</string>
+
+    // Fragment
+    <string name="gain_fragment" translatable="false">Gain Fragment</string>
+    <string name="rip_fragment" translatable="false">Store Fragment</string>
+    <string name="profile_fragment" translatable="false">Profile Fragment</string>
+
+
+    //info
+    <string name="rip" translatable="false">RİP</string>
+
+    <string name="TL" translatable="false">TL</string>
+
+    //Dialog
+    <string name="dbstorage_pp" translatable="false">pictures</string>
+
+
+    //loginRegisterLayout
+    <string name="hintemail" translatable="false">E-mail</string>
+
+    //StoreLayout
+
+    //Duello Layout
+    <string name="profilerip" translatable="false">RİP :</string>
+    <string name="field_canjoin" translatable="false">canjoin</string>
+    <string name="field_prize" translatable="false">prize</string>
+
+
+    <string name="linkgizlilik" translatable="false">Gizlilik Politikası</string>
+    <string name="linkkullanim" translatable="false">Kullanım Şartları ve</string>
+    <string name="linkresmi" translatable="false">Yarışma Kurallarını Kabul Ediyorum.</string>
+    <string name="gizlilik" translatable="false">Gizlilik Politikası</string>
+    <string name="kullanim" translatable="false">Kullanım Şartları</string>
+    <string name="resmi" translatable="false">Yarışma Kuralları</string>
+    <string name="duelloizlemesiinfo">Rank</string>
+    <string name="wanttry">, Do you want to try Your Luck ?</string>
+    <string name="tryagain">Unfortunately, Try Again.</string>
+    <string name="congratulations">Congratulations, You are first for now.</string>
+    <string name="buttonsignup">Sign Up</string>
+    <string name="nasiloynanir" translatable="false">Nasıl Oynanır ? \n\n
+
+Alt Tarafta Yeralan 5\'li Bar kısmında Ödül Mağazası ikonuna (en solda yer alan) tıkladğınızda Karşınıza çıkan Sınırsız Ödüllere,
+İstediği katılım ücretini (RİP) olarak ödeyerek istediğiniz kadar katılabilir, var olan
+en yüksek puanı alır ve ya geçerseniz, ilk sıraya yerleşirsiniz.\n\n
+        KALAN KATILIMIN SIFIRA (0) ULAŞMASI İLE KATILIMLAR BİTER, VE EN YÜKSEK PUANLI KATILIMCI ÖDÜLÜ KAZANIR.\n\n
+
+        NOT :Aldığınız puanları göremezsiniz, eğer ilk sıraya geçecek yeterli puanı kazanırsanız, Katıl butonu üzerinde
+        \'Katıl\' yerine \'Birincisin\' olarak güncellenir. İlk sırada bulunmanız durumunda da katılımda bulunabilirsiniz.
+        Daha düşük puan almanız durumunuzu etkilemez, Daha yüksek puan almanız durumunda puanınız güncellenir.
+        Her zaman en yüksek puanınız geçerlidir.\n\n
+
+RİP Nasıl Kazanılır ? \n\n
+
+RİP\'i kazanmak için alttaki reklam izleme butonuna tıklamanız ve reklamnı geçmeden izlemeniz
+gerekir. Dilerseniz  Alt Tarafta Yeralan 5\'li Bar kısmında Yıldız ikonuna (ortada yer alan) tıkladğınızda
+        karşınıza çıkan diğer RİP kazanma
+yöntemleriyle kazanabilirsiniz. \n 5\'li Bar kısmında Sıralama ikonunu (Sağdan ikinci) sadece o günkü veyea bir önceki reklam izleme
+        sayısınızı ve sıranızı görebildiğiniz
+kısımdır. Bu kısımda Sıralama girerek Rip kazanabilirsiniz.
+        Ödül tablosunda ki ödüller hergün yapılan sıramaya göre dağıtılır. Sıralamaya girmek için
+en az 20 reklam izlenmelidir. \n\n
+
+        Not: En çok Reklam İzleyerek 1. Olan kişi, Biriken Parayı Kazanır (Günlük). Para Birikimi, izlenenen her raklam başına sistematik olarak artar.\n\n
+        Not: İzlenilen her Reklam izleyen kişiye bir puan (çekiliş içim) ve Ortak Havuzda Bulunan Biriken Parayı artırır.\n\n
+        Sandık Nedir? \n\n
+
+ALTIN, GÜMÜŞ ve BRONZ Sandık olmak üzere 3 çeşit Sandık vardır. Sandıkları açarak
+Sandık çeşidine göre 1 ile 100 arası değişen RİP kazanabilirsiniz.\n\n
+
+Şans Nedir ?\n\n
+
+RİP kazanma yöntemlerinden biridir. Altın, Gümüş ve Bronz olmak üzere şans butonlarına
+tıkladığınızda o anki tıkanma sıranıza göre size Sandık verir.\n\n
+
+
+Tahmin Nedir ? \n\n
+
+Geliştirici tarafından açılan bir Tahmin sorusu ve 3 cevap ile sorunun cevabını tahmin edip
+onaylayın. ve Tahminlere göre Değişen Snadık Ödülleri Kazanın.\n\n
+
+
+</string>
+    <string name="gizlilikcontext" translatable="false">LuckTime Uygulaması Gizlilik Politikası
+\n
+LuckTime Mobil Uygulamasına erişim sağlayacak kişilerin (Kullanıcıların) Mobil Uygulamaya kayıt olurken kabul etmesi ile birlikte yürürlüğe girmiş olacaktır. \n
+
+
+Bu sayfa, Hizmetimizi kullandığınızda kişisel verilerin toplanması, kullanılması ve ifşa edilmesi ve bu verilerle ilişkilendirdiğiniz seçimler ile ilgili politikalarımız hakkında sizi bilgilendirir.\n
+
+
+Verilerinizi Hizmeti sağlamak ve geliştirmek için kullanıyoruz.Hizmeti kullanarak, bu politikaya uygun olarak bilgilerin toplanmasını ve kullanılmasını kabul edersiniz.Bu Gizlilik Politikasında aksi belirtilmedikçe, bu Gizlilik Politikasında kullanılan terimler, Şartlar ve Koşullarımızdakilerle aynı anlamlara sahiptir.\n\n
+
+Bilgi Toplama ve Kullanımı\n
+Hizmetimizi size sunmak ve geliştirmek için çeşitli amaçlar için çeşitli farklı bilgi türleri topluyoruz.\n\n
+
+Toplanan Veri Türleri\n
+
+Kişisel Veri\n
+
+Hizmetimizi kullanırken, sizinle iletişim kurmak veya sizi tanımlamak için kullanılabilecek kişisel olarak tanımlanabilir bilgiler sağlamanızı isteyebiliriz ("Kişisel Veriler").\n
+
+Kişisel olarak tanımlanabilir bilgiler aşağıdakileri içerebilir, ancak bunlarla sınırlı değildir:\n
+
+Email Adresi\n
+Ad Soyad Bilgisi\n
+Çerezler ve Kullanım Verileri\n\n
+
+Kullanım Verisi\n
+
+Ayrıca, Hizmetimizi ziyaret ettiğinizde veya Hizmete bir mobil cihaz aracılığıyla ("Kullanım Verileri") eriştiğinizde tarayıcınızın gönderdiği bilgileri de toplayabiliriz.\n
+
+Bu Kullanım Verileri, bilgisayarınızın İnternet Protokolü adresi (örn. IP adresi), tarayıcı tipi, tarayıcı sürümü, ziyaret ettiğiniz Hizmet sayfalarımız, ziyaretinizin saati ve tarihi, bu sayfalarda geçirilen süre gibi bilgileri içerebilir. cihaz tanımlayıcıları ve diğer teşhis verileri.\n
+
+Hizmete bir mobil cihaz aracılığıyla veya bu cihaz aracılığıyla eriştiğinizde, bu Kullanım Verileri kullandığınız mobil cihaz türü, mobil cihazınızın benzersiz kimliği, mobil cihazınızın IP adresi, mobil işletim sisteminiz, cep Kullandığınız mobil İnternet tarayıcısı, benzersiz cihaz tanımlayıcıları ve diğer tanılama verileri.\n\n
+
+İzleme ve Çerezler Verileri\n
+
+
+Hizmetimizdeki aktiviteyi izlemek ve belirli bilgileri tutmak için çerezleri ve benzer izleme teknolojilerini kullanıyoruz.\n
+
+Çerezler, anonim benzersiz bir tanımlayıcı içerebilen küçük miktarda veri içeren dosyalardır.
+Çerezler tarayıcınıza bir web sitesinden gönderilir ve cihazınızda saklanır.\n
+İzleme teknolojileri de, bilgileri toplamak ve izlemek ve Hizmetimizi geliştirmek ve analiz etmek için işaretler, etiketler ve komut dosyalarıdır.\n
+
+Tarayıcınıza tüm çerezleri reddetmesi veya bir çerez gönderilip gönderilmediğini bildirmesi için talimat verebilirsiniz.Ancak, çerezleri kabul etmiyorsanız, Hizmetimizin bazı bölümlerini kullanamayabilirsiniz.\n\n
+
+Kullandığımız Çerezlere Örnekler:\n
+
+Oturum Çerezleri.Hizmetimizi çalıştırmak için Oturum Çerezlerini kullanıyoruz.\n
+
+Tercih Çerezleri.Tercihlerinizi ve çeşitli ayarlarınızı hatırlamak için Tercih Çerezlerini kullanıyoruz\n
+
+Güvenlik Çerezleri.Güvenlik amacıyla Güvenlik Çerezlerini kullanıyoruz.\n\n
+
+
+Verilerin Kullanımı\n
+
+LuckTime toplanan verileri çeşitli amaçlarla kullanır:\n
+
+Hizmeti sağlamak ve sürdürmek.\n
+
+Size servisimizdeki değişiklikler hakkında bilgi vermek.\n
+
+Bunu yapmayı seçtiğinizde Hizmetimizin etkileşimli özelliklerine katılmanıza izin vermek için.\n
+
+Müşteri hizmetleri ve desteği sağlamak
+Hizmeti geliştirebilmemiz için değerli bilgilerin analizini sağlamak.\n
+
+Hizmetin kullanımını izlemek için
+Teknik sorunları tespit etmek, önlemek ve ele almak.\n\n
+
+
+Verilerin Transferi\n
+
+Kişisel Veriler de dahil olmak üzere bilgileriniz, veri koruma yasalarının yetki alanınızdan farklı olabileceği eyalet, il, ülke veya diğer devlet dairelerinizin dışında bulunan bilgisayarlara aktarılabilir - ve bunlar üzerinde muhafaza edilebilir.\n
+
+Türkiye dışındaysanız ve bize bilgi vermeyi tercih ediyorsanız, Kişisel Veriler de dahil olmak üzere verileri Türkiye\'ye aktardığımızı ve orada işlediğimizi lütfen unutmayın.\n
+
+Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.\n
+LuckTime, verilerinizin güvenli bir şekilde ele alındığından ve bu Gizlilik Politikasına uygun bir şekilde sağlandığından emin olmak için makul ölçüde gerekli tüm adımları atacaktır ve Kişisel Verilerinizin herhangi bir şekilde bir kuruluşa veya ülkeye güvenliğini de içeren yeterli kontroller olmadığı sürece veri ve diğer kişisel bilgiler.\n\n
+
+Verilerin İfşası\n
+
+Yasal yükümlülükler\n
+
+LuckTime Kişisel Verilerinizi, bu tür eylemlerin aşağıdakiler için gerekli olduğuna dair iyi niyet inancında açıklayabilir:\n
+
+Yasal zorunluluğa uymak\n
+
+LuckTime\'ın haklarını veya mülkiyetini korumak ve savunmak\n
+
+Hizmetle bağlantılı olası yanlışları önlemek veya araştırmak\n
+Hizmet veya kamu kullanıcılarının kişisel güvenliğini korumak\n
+
+Yasal yükümlülüğe karşı korumak\n\n
+
+Verilerin Güvenliği\n
+
+Verilerinizin güvenliği bizim için önemlidir, ancak İnternet üzerinden hiçbir aktarım yönteminin veya elektronik depolama yönteminin% 100 güvenli olmadığını unutmayın.\n
+
+Kişisel Verilerinizi korumak için ticari olarak kabul edilebilir araçları kullanmaya gayret ederken, mutlak güvenliğini garanti edemeyiz.\n\n
+
+
+Servis Sağlayıcıları\n
+
+Hizmetimizi ("Hizmet Sağlayıcıları") Hizmetimizi kolaylaştırmak, Hizmetle ilgili hizmetleri gerçekleştirmek veya Hizmetimizin nasıl kullanıldığını analiz etmemize yardımcı olmak için üçüncü taraf şirketleri ve bireyleri kullanabiliriz.\n
+
+Bu üçüncü taraflar Kişisel Verilerinize yalnızca bu görevleri bizim adımıza gerçekleştirmek için erişim hakkına sahiptir ve bunları başka bir amaç için açıklamamak veya kullanmamakla yükümlüdür.\n\n
+
+Analitik\n
+
+Hizmetimizin kullanımını izlemek ve analiz etmek için üçüncü taraf Servis Sağlayıcıları kullanabiliriz.\n\n
+
+Google Analytics\n
+
+Google Analytics, Google tarafından sunulan ve web sitesi trafiğini izleyen ve raporlayan bir web analizi hizmetidir. Google, Hizmetimizin kullanımını izlemek ve izlemek için toplanan verileri kullanır. Bu veriler diğer Google hizmetleriyle paylaşılmaktadır. Google, kendi reklam ağındaki reklamları bağlamsallaştırmak ve kişiselleştirmek için toplanan verileri kullanabilir.\n
+
+Google\'ın gizlilik uygulamaları hakkında daha fazla bilgi için lütfen Google Gizlilik ve Şartlar web sayfasını ziyaret edin: https://policies.google.com/privacy?hl=tr\n\n
+
+Diğer Sitelere Bağlantılar\n
+
+
+Hizmetimiz, bizim tarafımızdan işletilmeyen diğer sitelere bağlantılar içerebilir. Üçüncü tarafa ait bir bağlantıyı tıklarsanız, üçüncü tarafın sitesine yönlendirilirsiniz. Ziyaret ettiğiniz her sitenin Gizlilik Politikasını incelemenizi şiddetle tavsiye ederiz.\n
+
+Üçüncü taraf sitelerin veya hizmetlerin içeriği, gizlilik politikaları veya uygulamaları üzerinde hiçbir kontrolümüz yoktur ve sorumluluk kabul etmemekteyiz.\n\n
+Çocuk Gizliliği\n
+
+18 yaşın altındaki kişilerden bilerek veya kaıtlı olarak bilgi toplanmamaktadır.\n\n
+
+Bu Gizlilik Politikasındaki Değişiklikler\n
+
+Gizlilik Politikamızı zaman zaman güncelleyebiliriz\n
+
+Bu sayfada yeni Gizlilik Politikasını yayınlayarak herhangi bir değişikliği size bildireceğiz.\n
+
+Değişikliğin yürürlüğe girmesinden önce ve bu Gizlilik Politikasının en üstündeki "yürürlüğe girme tarihi" ni güncellemeden önce, size e-posta ve / veya Hizmetimiz hakkında öne çıkan bir bildirim yoluyla bildiririz.\n
+
+Herhangi bir değişiklik için bu Gizlilik Politikasını periyodik olarak gözden geçirmeniz önerilir. Bu Gizlilik Politikasındaki değişiklikler, bu sayfada yayınlandıklarında geçerlidir.\n\n
+
+
+Bizimle iletişime geçin\n
+
+
+Bu Gizlilik Politikası ile ilgili herhangi bir sorunuz varsa, lütfen bize ulaşın:\n\n
+
+E-mail : lucktimeapp@gmail.com
+
+</string>
+
+
+    <string name="kullanimcontext" translatable="false">LuckTime mobil uygulaması (“Uygulama”), Samet Kocabaş (“Geliştirici”) tarafından sunulmaktadır.\n
+ 
+İşbu Kullanım Koşulları (“Koşullar”) kapsamında Uygulama’dan faydalanacak olan kullanıcı (“Kullanıcı”), işbu Koşullar’ın Uygulama’nın kullanımı, indirilmesi, Uygulama’ya kayıt olması ile birlikte yürürlüğe gireceğini ve bu Koşullar’da yer alan düzenlemelere ve herhangi bir bildirim yapılmaksızın Kurallar dokümanı başta olmak üzere Uygulama üzerinden zaman zaman yayınlanan, güncellenen veya referans yapılan kurallara uygun davranmakla yükümlü olduğunu bilmektedir.\n
+ 
+İşbu Koşullar kapsamında Geliştirici ve Kullanıcı ayrı ayrı “Taraf”, birlikte “Taraflar” olarak anılacaktır.\n\n
+ 
+1.     Koşullar’ın Konusu\n
+Uygulama, Kulanıcıar’a reklam izleme puanı kazandırdığı ve Koşullar’a uygun olarak ödüller verildiği bir oyun, eğlence, reklam platformudur.\n
+ 
+İşbu Koşullar’ın konusu, Kullanıcılar’ın Uygulama’dan faydalanmasına ilişkin olarak Taraflar’ın hak ve yükümlülüklerinin düzenlenmesinden ibarettir. İşbu Koşullar her türlü içerik, bilgi ve diğer materyali sağlayan taraflara da uygulanmaktadır.\n\n
+
+2.     Taraflar’ın Hak ve Yükümlülükleri\n
+2.1 Kullanıcı, işbu Koşullar’ın kabulü tarihinde Koşullar’ı anlamaya ve kabul etmeye yeterli yetkinliğe sahip olduğunu, Koşullar’ın sonuçlarını tümüyle anladığını kabul eder.\n
+ 
+2.2 Geliştirici, Kullanıcı’nın Uygulama’dan yararlanılabilmesi için Kullanıcı’nın bir hesap açmasını, E-mail adresini ve ya Geliştirici tarafından uygun görülen herhangi başka bir kimlik doğrulama mekanizması üzerinden kayıt olmasını gerekli kılabilir. Kullanıcı, Uygulama’ya telefon numarası, sosyal medya hesabı veya herhangi başka bir kimlik doğrulama mekanizması üzerinden giriş yapması halinde işbu Koşullar’a konu Uygulama çerçevesinde Facebook, Twitter veya ilgili kimlik doğrulama mekanizmasında yer alan hesabına erişim için gerekli izin ve yetkileri verdiğini kabul eder.\n
+ 
+2.3 Kullanıcı, Uygulama’dan faydalanmak için Geliştirici tarafından talep edilen bilgileri tam, doğru ve güncel bir şekilde sağlaması, hesabını güncel tutması gerektiğini bildiğini ve Geliştirici’nin dilerse Kullanıcı’dan ek bilgi ve belge talep edebileceğini kabul ve beyan eder.\n
+ 
+2.4 Kullanıcı, Uygulama’nın kullanımına imkan veren hesaplar, kullanıcı adı ve şifre de dahil olmak üzere tüm bilgilerin kullanım ve yönetiminden bizzat sorumludur. Kullanıcı’ya ait hesap, kullanıcı adı ve şifre ile gerçekleştirilen her işlem bizzat Kullanıcı tarafından gerçekleştirilmiş addedilecek ve bu bilgilerinin Kullanıcı dışında bir kişi tarafından kullanılması, kaybolması veya el değiştirmesi nedeniyle Kullanıcı ve/veya üçüncü kişilerin uğradığı zararlardan münhasıran Kullanıcı sorumlu olacaktır. Kullanıcı, şifresinin yetkisiz kullanımı veya güvenliğin başka şekilde ihlalinden haberdar olduğunda bu durumu derhal Geliştirici’ye bildirecektir.\n
+ 
+2.5 Kullanıcı, oluşturulmuş hesaplarını, kullanıcı adı ve şifresi ile üyelik profillerini hiçbir şart ve koşulda başka bir kullanıcıya devredemez veya üçüncü kişilerce kullanımına izin veremez.\n
+ 
+2.6 Geliştirici’nin herhangi bir gerekçe göstermeksizin, tamamen kendi iradesine tabi olarak Kullanıcı başvurularını reddetme hakkı saklıdır. Geliştirici, işbu Koşullar ve Uygulama’da belirtilen diğer kural ve koşullara aykırılık, Kullanıcı başvurusu sırasında verilen bilgilerin yeterli, doğru veya güncel olmadığının tespit edilmesi, giriş yapılan bir kimlik doğrulama mekanizması hesabının Kullanıcı’ya ait olmadığının tespit edilmesi, Kullanıcı başvurusunda bulunan kişinin başvurusunun daha önce reddedilmiş olması dahil olmak üzere haklı sebebe dayanarak veya herhangi bir sebebe dayanmaksızın ve Kullanıcı’nın Uygulama’da yer alan verilerinin kaybolmasına yol açabilecek şekilde dahi dilediği zamanda, herhangi bir bildirimde bulunmaksızın her zaman, herhangi bir tazminat ödeme yükümlülüğü altına girmeksizin tümüyle veya kısmen, geçici veya sürekli olarak Kullanıcı’nın üyeliğine son verebilir veya Uygulama’dan faydalanmasını engelleyebilir.\n
+ 
+2.7 Kullanıcı, Uygulama’ya kendisi tarafından yüklenen ya da farklı şekillerde erişilebilir kıldığı, sayılanlarla sınırlı olmaksızın, fotoğraf, metin, video, bilgi, yazışma, yorum, yazılım ve sair özellikler (“İçerik”) ille kullanıcı adı ve sair paylaşımların doğru ve hukuka uygun olduğunu, sayılanlarla sınırlı olmaksızın, karalama, kötüleme, itibar zedeleyici beyan, hakaret, iftira, tehdit, pornografi veya taciz gibi hukuka veya ahlaka aykırı nitelik taşımayacağını, İçerikler’in üçüncü kişilerin fikri mülkiyet ve kişilik hakları da dahil olmak üzere herhangi bir hak ihlaline sebep olmayacağını, Geliştirici’nin yazılı onayı olmaksızın reklam, kampanya ve promosyon içerikleri, yarışma, çekiliş ve promosyon teklif ve duyuruları paylaşmayacağını kabul ve taahhüt etmektedir .\n
+ 
+2.8 Kullanıcı işbu Koşullar ile, Uygulama’da paylaştığı her türlü İçerik’e ilişkin olarak, Geliştirici’ye, sayılanlarla sınırlı olmaksızın, bu İçerikler’i kullanması, düzenlemesi, değiştirmesi, çoğaltması, dağıtması, türevlerini oluşturması ve görüntülemesi amaçlarıyla dünya çapında, münhasır olmayan, daimi, değiştirilemez, bedelsiz ve devir ve alt lisansa konu olabilen sınırsız kullanım hakkı verir. Geliştirici, söz konusu İçerikler’i herhangi bir sınırlamaya tabi olmaksızın kullanma hakkını haizdir.\n
+ 
+2.9 Geliştirici, İçerikler’in Uygulama’da yayınlanmasını herhangi bir gerekçe göstermeksizin reddedebilecektir. Herhangi bir İçerik’in Uygulama’da yayınlanması için Geliştirici tarafından onay verilmesi ya da Geliştirici’nin İçerikler’e müdahale etmesi Geliştirici’nin İçerikler’e ilişkin sorumsuzluğunun ortadan kalktığı şeklinde yorumlanmayacaktır. Kullanıcı tarafından Uygulama’ya yüklenen ve işbu Koşullar ile Uygulama’da yer alan diğer koşul ve şartlara aykırı bilgi ve İçerikler Geliştriici tarafından neden gösterilmeksizin Uygulama’dan kaldırılabilecek, bu tür İçerikler nedeniyle Kullanıcı’nın Uygulama’dan faydalanma imkanı kısmen veya tamamen askıya alınabilecektir. Geliştirici, işbu Koşullar’ın sona ermesi veya feshedilmesinden sonra dahi ilgili İçerik’i yayınlamak veya yayından kaldırmak hususunda münhasır hak sahibi olacaktır.\n
+ 
+2.10 Kullanıcı konum ve lokasyon bilgilerinin Geliştirici tarafından Uygulama içerisinde kullanılabileceğini bildiğini, bu bilgilerin Geliştirici ile paylaşılmasını kabul ettiğini, bu bilgileri paylaşmayı cihazının ilgili özelliklerini kapatmak suretiyle sonlandırabileceğini bildiğini kabul eder.\n
+ 
+2.11 Kullanıcı, Uygulama’nın kaynak gösterdiği sayfalar da dahil olmak üzere Uygulama’da reklam, kampanya ve promosyonların yayınlanabileceğini buna ilişkin olarak hiçbir hak, itiraz veya talep öne süremeyeceğini kabul, beyan ve taahhüt eder.\n
+ 
+2.12 Kullanıcı, Uygulama içerisinde Uygulama içi içerik, mal ve hizmet satın alınabileceğini, bu satın almaların ilgili uygulama mağazası işleticisinin hizmetleri aracılığı ile yapılabileceğini ve bu sebeple satın almanın gerçekleştiği uygulama mağazasında yer alan ilgili koşullarına uymakla yükümlü olduğunu ve bu işlemlere Geliştirici’nin taraf olmadığını ve işlemlerden Geliştirici’nin herhangi bir sorumluluğunun söz konusu olmadığını kabul eder.
+ \n
+2.13 Kullanıcı, Uygulama’yı cihazından kaldırarak veya Uygulama’da yer alan talimatları uygulayarak hesabını Uygulama üzerinden dilediği zaman herhangi bir sebep belirtmeksizin sonlandırabilir.
+ \n
+2.14 Geliştirici’nin herhangi bir sebep göstermeksizin ve herhangi bir ihbarda bulunmaksızın işbu Koşullar’ı ve Uygulama üzerinden yayınladığı sair koşulları dilediği zamanda tek taraflı olarak değiştirme, bunlara ilavede bulunma veya yenileme ve Uygulama’yı yeniden organize etme, Uygulama’nın konu, kapsam ve içeriğini değiştirme, yayını durdurma, Kullanıcı’nın Uygulama’dan yararlanmasını sınırlandırma hakkı saklıdır. Geliştirici tarafından işbu Koşullar ve sair koşullar üzerinde yapılan değişiklikler Uygulama’da yayınlandığı tarihte yürürlüğe girecek olup Uygulama’nın kullanılması ile Kullanıcı güncel koşulları kabul etmiş addedilir. Geliştirici Koşullar ve sair kurallara ilişkin değişiklikleri Uygulama üzerinden yapılacak bir bildirimle duyurabilecek olup her halükarda söz konusu dokümanların düzenli bir şekilde takip edilmesinden Kullanıcı bizzat sorumlu olacaktır.
+ \n
+2.15 Uygulama’nın kullanımına ilişkin her türlü yasal, idari ve cezai sorumluluk Kullanıcı’ya aittir. Geliştirici, Kullanıcı’nın Uygulama üzerinde gerçekleştirdiği faaliyetler ve/veya işbu Koşullar ve yasaya aykırı eylemleri neticesinde üçüncü kişilerin uğradıkları veya uğrayabilecekleri zararlardan doğrudan ve/veya dolaylı olarak hiçbir şekilde sorumlu tutulamaz. Kullanıcı Geliştirici’yi, iştiraklerini, yöneticilerini, pay sahiplerini ve sair çalışanlarını mahkeme ve avukatlık masrafları dahil tüm talep ve zararlardan ari tutmakla, ilgili talep ve zararlara ilişkin olarak Geliştrici’nin savunulması için Geliştirici ile işbirliği yapmakla yükümlüdür. Üçüncü kişilerden bu kapsamda gelecek her türlü talep ile Kullanıcı’nın Koşullar’da belirtilen yükümlülüklerini yerine getirmemesinden kaynaklanan Geliştirici’nin uğrayacağı zararlar Kullanıcı’ya rücu edilecektir.
+ \n\n
+3.     Fikri Mülkiyet Hakları\n
+3.1 Uygulama içerisindeki görsel ve tasarımlar, yazılar, logolar, grafikler de dahil olmak üzere Geliştiri’ye ait sistem ve Uygulama’nın tüm mali, manevi ve ticari hakları Geliştirici’ye aittir. Geliştirici, Kullanıcı’ya Uygulama üzerinde Koşullar’ın süresi ile sınırlı, münhasır olmayan, alt lisanslanamaz ve devredilemez bir kullanım hakkı (basit ruhsat) vermeyi kabul etmekte olup Kullanıcı’ya tanınan bu sınırlı kullanım hakkı Geliştirici’ye karşı, Geliştirci’nin başkalarına lisans verme hakkı başta olmak üzere diğer tüm haklarını serbestçe kullanmasını sınırlayacak şekilde yorumlanamaz.
+ \n
+3.2 Kullanıcı, Uygulama’yı yalnızca işbu Koşullar’da belirtilen kapsamda kullanacak olup, bu hakkı ödünç veremez, kiralama gibi bedelli veya bedelsiz, hiçbir şekilde üçüncü şahısların (kişi, kurum, kuruluş Geliştirici vb.) yararına sunamaz, kullandıramaz. Uygulama’nın tasarımında, içeriğinde ve veritabanı oluşturulmasında kullanılan bilgi ve/veya yazılımın kopyalanması ve/veya Uygulama’dan faydalanmanın ötesinde kullanılması, Uygulama dahilinde bulunan her türlü haber, içerik, bilgi, resim, metin, imge, dosya vb. verilerin kopyalanması, dağıtılması, işlenmesi ve sair şekillerde kullanılması kesinlikle yasaktır. Ayrıca Kullanıcılar’ın
+(i) Uygulama’nın güvenliğini tehdit edebilecek, Uygulama’ya ait yazılımların çalışmasını veya diğer kullanıcıların Uygulama’dan faydalanmasını engelleyebilecek herhangi bir girişimde bulunması,
+(ii) Uygulama’ya bu sonuçları verecek şekilde orantısız yük bindirmesi; Uygulama’da yayımlanmış bilgi ve içeriklere yetkisiz bir şekilde erişmesi, bu bilgi ve içerikleri kopyalaması, silmesi, değiştirmesi ya da bu yönde denemeler yapması;
+(iii) Uygulama’nın genel güvenliğini tehdit edecek ve/veya Uygulama, Geliştirici ve diğer kullanıcılara zarar verebilecek eylemlerde bulunulması;
+(iv) Uygulama’nın ve kullanılan yazılımların çalışmasını engelleyecek yazılımların kullanılması, kullanılmaya çalışılması veya her türlü yazılım, donanım ve sunucuların çalışmasının aksatılması, bozulmasına yol açılması, tersine mühendislik yapılması, saldırılar düzenlenmesi, meşgul edilmesi veya sair surette müdahale edilmesi, Geliştirici sunucularına erişim sağlanmaya çalışılması kesinlikle yasaktır. Kullanıcı, yukarıda anılan yöntemlerle yahut sair şekillerde Geliştirici veya Uygulama ile rekabet etmeyeceğini, bu amaçla hareket eden üçüncü taraflara destek vermeyeceğini kabul eder.
+ \n
+3.3 Uygulama’da yer alan hiçbir unsur, bunlarla sınırlı olmamak üzere başka bir mecrada yazılı, sözlü ve/veya elektronik olarak herhangi bir şekilde işbu Koşullar kapsamında izin verilen kullanımlar haricinde yayımlanamaz ve/veya bunlara Geliştirici’nin onayı olmadan bunlardan veya bunlara link verilemez.
+\n\n 
+4.     Sorumlulukların Sınırı\n
+4.1 Uygulama ve Uygulama kapsamındaki özellikler,sair içerikler ve sorular/cevaplar “OLDUĞU GİBİ” sunulmakta olup, bu kapsamda Geliştirici’nin bunların doğruluğu, tamlığı ve güvenilirliği ile ilgili herhangi bir sorumluluk ya da taahhüdü bulunmamaktadır. Geliştirici, işbu Koşullar kapsamında ticari elverişlilik, belli bir amaca veya kullanıma uygunluk veya ihlalin söz konusu olmamasına ilişkin olarak açık veya zımni herhangi bir taahhütte bulunmamaktadır. Kullanıcı, Uygulama’nın işleyişinin kusurdan ari olmadığını ve zaman zaman teknik aksaklıklar veya erişim engelleriyle karşılaşabileceğini bildiğini kabul ve beyan eder.
+ \n
+4.2 Kullanıcı, İçerikler ile Uygulama’da paylaştığı sair her türlü bilgi ve içerikten münhasıran sorumlu olup bu bilgilere ilişkin olarak ortaya çıkan her türlü talep ve zarar Kullanıcı’ya iletilecek yahut rücu edilecektir. Kullanıcı, Geliştirici’nin Uygulama üzerinden paylaşılan hiçbir bilginin gerçekliğini, orijinalliğini, güvenliğini, doğruluğunu araştırma, bunların paylaşılmasının hukuka uygun olup olmadığını tespit etme sorumluluğu bulunmadığını, söz konusu bilgiler ve İçerikler sebebiyle ortaya çıkabilecek zararlardan dolayı Geliştirici’nin sorumluluğu bulunmadığını, paylaştığı bilgilerden münhasıran kendisinin sorumlu olduğunu kabul ve beyan eder.
+ \n
+4.3 Geliştirici, (i) Kullanıcı’nın Uygulama’yı kullanması, kullanmaması ya da yanlış kullanması sebebiyle ortaya çıkacak doğrudan veya dolaylı zararlardan, her türlü kar kaybı, veri kaybı, iş kaybı, itibar kaybı, beklenen tasarrufun kaybı, işin kesintiye uğraması gibi her türlü maddi, manevi ve mali zararlardan, üçüncü bir tarafça yapılabilecek tazminat taleplerinden; (ii) tüm donanım, sistem yazılımı/diğer yazılımlar ve ağ ilişkili işlevden ve bu nedenle ortaya çıkacak arızalardan; (iii) iletişim ağı (network), internet bağlantısı, bağlantı hatalarından; (iv) Uygulama üzerinde gerçekleştirilecek her türlü değişiklik, güncelleme ve benzeri çalışmalardan doğacak zararlardan sorumlu değildir.
+ \n
+4.4 GELİŞTRİCİ, İŞTİRAKLERİ, YÖNETİCİLERİ, PAY SAHİPLERİ VE SAİR ÇALIŞANLAR UYGULANACAK HUKUKUN İZİN VERDİĞİ ÖLÇÜDE, KAR KAYBI, VERİ KAYBI, İKAME MAL VEYA SERVİS TEMİNİ, ŞEREFİYE VE İTİBAR KAYBI DAHİL ANCAK BUNLARLA SINIRLI OLMAKSIZIN UYGULAMA’NIN KULLANIMI NETİCESİNDE MEYDANA GELEN HİÇBİR DOĞRUDAN, DOLAYLI, ÖZEL, ARIZİ, CEZAİ ZARARDAN SORUMLU OLMAYACAKTIR. GELİŞTİRİCİ, İŞBU KOŞULLAR KAPSAMINDA TİCARİ ELVERİŞLİLİK, BELLİ BİR AMACA VEYA KULLANIMA UYGUNLUK VEYA İHLALİN SÖZ KONUSU OLMAMASINA İLİŞKİN OLARAK AÇIK VEYA ZIMNİ HERHANGİ BİR TAAHHÜTTE BULUNMAMAKTADIR. GELİŞTİRİCİ’NİN İŞBU SÖZLEŞME KAPSAMINDAKİ SORUMLULUĞU HER HALÜKARDA KULLANICI’NIN SON 3 (ÜÇ) AY İÇİNDE KAZANDIĞI ÖDÜL TUTARI 4000 (DÖRT BİN) TÜRK LİRASI’NDAN DAHA YÜKSEK TUTARDA OLANI İLE SINIRLI OLACAKTIR.
+ \n
+4.5 Kullanıcı, Uygulama üzerinden Geliştrici’nin kontrolünde olmayan başka internet sitelerine ve/veya platformlara, dosyalara veya içeriklere link verilebileceğini, üçüncü taraflara ait hizmetlerin sunulabileceğini ve bu tür linklerin yöneldiği internet sitesini veya işleten/hizmet veren kişiyi desteklemek amacıyla veya internet sitesi veya içerdiği bilgilere yönelik herhangi bir türde bir beyan veya garanti niteliği taşımadığını, söz konusu linkler vasıtasıyla erişilen platformlar, internet siteleri, dosyalar ve içerikler, hizmetler veya ürünler veya bunların içeriği hakkında Geliştrici’nin herhangi bir sorumluluğu olmadığını kabul ve beyan eder.
+\n 
+4.6 Kullanıcı, Uygulama üzerinden sunulan içeriklere erişimin, Kullanıcı’nın cihazının ve ilgili internet servis sağlayıcısından temin edilen hizmetin kalitesine dayandığını ve söz konusu hizmet kalitesinden kaynaklı sorunlarda Geliştrici’nin herhangi bir sorumluluğunun bulunmadığını kabul eder. Kullanıcı ayrıca, Uygulama’da yapılacak iyileştirme ve diğer değişiklikleri uygulamak için Uygulama’ya erişimin engellenebileceğini kabul eder.
+ \n\n
+5.     Yükümlülüklerin İhlali\n
+Kullanıcı’nın işbu Koşullar ve eklerinde yer alan düzenlemelere uymaması, Kullanıcı’nın faaliyetlerinin hukuki, teknik ve bilgi güvenliği anlamında risk oluşturması ya da Uygulama’ya ilişkin yükümlülüklerini ihlal etmesi halinde yahut herhangi bir nedene dayanmaksızın Geliştirici, Kullanıcı’nın Uygulama’yı kullanımını ve/veya yararlanmasını geçici veya sürekli olarak durdurabilir.
+ \n\n
+6.      Kişisel Verilerin Korunması
+\n
+Geliştirici, işbu Uygulama kapsamında Kullanıcı’lara ait 6698 sayılı Kişisel Verilerin Korunması Kanun’u (Kanun) kapsamında kişisel veri sayılan bilgileri veri sorumlusu sıfatıyla “Gizlilik Politikası ve Gizlilik Politikası” metninde belirtilen amaçlar doğrultusunda işlemektedir. Veri Sorumlusu olarak Geliştrici, edindiği kişisel verileri hukuka aykırı şekilde işlenmesini ve kişisel verilere hukuka aykırı şekilde erişilmesini önlediğini, kişisel verilerin muhafazası sağlamak amacıyla gerekli tüm teknik ve idari tedbirleri aldığını ve Kullanıcı’ları Kanun’a uygun şekilde bilgilendirdiğini kabul ve beyan eder. Geliştirici, kişisel verilerin korunmasına ilişkin Kanun’dan doğan tüm önlemleri almış olmasına karşın, öngöremeyeceği ve engelleyemeyeceği siber saldırı, veri kayıt sisteminin çökmesi, deprem, sel, yangın vb. mücbir sebeplerden ve server’larının ağır tahrip olması gibi hallerden dolayı veri sahiplerinin uğradığı zararlardan sorumlu tutulamayacaktır.
+\n\n  
+7.     Uyuşmazlıkların Çözümü
+\n
+Bu Koşullar ve Uygulama’nın kullanımından kaynaklanan ihtilafların çözümünde Türk hukuku uygulanacak olup, İstanbul Merkez (Çağlayan) Mahkemeleri ve İcra Daireleri yetkili olacaktır.
+\n\n 
+8.     Muhtelif Hükümler\n
+8.1 Mücbir sebep sayılan tüm durumlarda, Geliştirici işbu Koşullar ile belirlenen edimlerinden herhangi birini geç veya eksik ifşa etme veya ifşa etmeme nedeniyle sorumlu tutulamaz. Mücbir sebep; doğal afet, isyan, savaş, grev, lokavt, telekomünikasyon altyapısından kaynaklanan arızalar, elektrik kesintisi ve kötü hava koşulları da dâhil ve fakat bunlarla sınırlı olmamak kaydıyla ilgili tarafın makul kontrolü haricinde gerçekleşen olaylar olarak yorumlanacaktır. Mücbir sebep süresince Taraflar’ın edimleri askıya alınacaktır.
+ \n
+8.2 İşbu Koşullar’ın herhangi bir hükmünün yetkili bir mahkeme veya kurul tarafından geçersiz veya uygulanamaz ilan edilmesi halinde, söz konusu hüküm, Koşullar’ın amacına yakın geçerli bir hükümle değiştirilecektir.
+ \n
+8.3 Kullanıcı, işbu Koşullar’ı, Koşullar’dan kaynaklı hak ve yükümlülükleri üçüncü kişilere devredemez.
+ \n
+8.4 İşbu Koşullar, Kullanıcı, Uygulamalar’ın yayınlandığı muhtelif mecralar ve Geliştirici arasında temsilcilik, acente, distribütörlük ilişkisi gibi herhangi bir ilişki tesis etmez.</string>
+
+
+    <string name="resmicontext" translatable="false">LUCKTİME UYGULAMASI RESMİ KURALLARI \n
+ÇEKİLİŞİ KAZANMAK VEYA ÇEKİLİŞE KATILMAYA HAK KAZANMAK İÇİN HERHANGİ BİR ÖDEME VEYA SATIN ALMA İŞLEMİ GEREKLİ DEĞİLDİR. LuckTime mobil uygulaması (“Uygulama”), Samet Kocabaş (“Geliştirici”) tarafından işletilmektedir (Zaman içinde çeşitli sponsorlarla finanse edilebilir.).\n\n
+
+UYGUNLUK:\n
+İşbu Resmi Kurallara tabii olan Uygulama, herkese dünya çapında açıktır.UYGULAMANIN; HUKUKEN YASAKLI VEYA KISITLI OLDUĞU YERLERDE, GEREKLİ TABİİYET,KAYIT VEYA GEREKEN DİĞER ŞARTLARIN KARŞILANMADIĞI VEYA AŞAĞIDA BELİRTİLEN GİRİŞ YÖNTEMLERİNİN UYGULANMADIĞI DURUMLARDA GEÇERSİZ OLACAĞI KABUL EDİLMİŞ SAYILIR. UYGULAMA İLGİLİ MEVZUATA TABİDİR.\n\n
+
+Uluslararası Katılımcılar: Yukarıda belirtildiği gibi,kendi ülkenizin/bulunduğunuz yerin yasaları uyarınca hareket etmeniz sizin sorumluluğunuzdadır. Bazı ülkelerin yasaları gereğince Uygulama’dan Ödülünüzü almanıza engel olabilecek hususlar bulunabileceğini kabul etmiş olursunuz (Bunlar aşağıda açıklanmaktadır). Kazanan olduğunuz ve ülkenizde/bulunduğunuz yerde yasaların bu şekilde olduğu hallerde,Uygulamadan herhangi bir ödül alamayacağınızı kabul etmiş olursunuz. Bu uygulamaya girerken riskleri ve cekilişi kazansanız da herhangi bir Ödül alamama ihtimalinizi de anlamış ve kabul etmiş olursunuz.\n\n
+
+KATILMA DÖNEMİ:\n
+Geliştrici tarafından var olan Eklenilmiş Ödüllerin Çekilişlerine katılmak için yeterli puanın toplanılması halinde istenilen zamanda katılabilirsiniz.\n\n
+
+NASIL KATILINIR:\n
+1)LuckTime Uygulamasını Google Play Store ve zaman içinde diğer uygulama dükkanlarından mobil cihazınıza indirin veya indirimiş olan LuckTime uygulamasına giriş yapın.Hali hazırda bir hesabınız varsa var oan hesabınıza giriş yapabilirsiniz. Hali hazırda bir hesabınız yok ise onaylanmış email hesabınızla yeni bir hesap oluşturabilirsiniz.\n
+2)Ödül çekilişlerine katılabilmek için ödülde belirtilen ücreti, yeterli reklam izleme puanı (RİP) toplayarak katılabilir ve herhangi bir satın alma işlemi gerekli değildir.\n\n
+
+REKLAM İZLEME PUANI (RİP) NASIL KAZANILIR:\n
+1)RİP kazanmak için ana ve yan sayfalarda en altta bulunan reklam izle butonuna tıklamanız ve reklamı sonuna kadar çıkmadan ve reklamı geçmeden izlemeniz gerekir ve size 1 RİP kazandırır veya Farklı RİP Kazanma yöntemleriyle kazanılan Sandıkları açarak RİP kazanabilirsiniz. ( ALTIN SANDIK 20-100, GUMUS SANDIK 10-50,BRONZ SANDIK 1-25 arası rastgele RİP verir. Sandık RİP sınırları zaman zaman Geliştirici tarafından değiştirilebilir.)\n
+2)Sayfada bulunan RİP puanınızı gösteren kısıma tıklandığında açılacak 3 farklı sekme sayfalarından şartlar yerine getirilen farklı RİP kazanma yöntemleriylede RİP ve Sandıklar kazanılabilir. \n
+a)Birinci Şans sekmesi üzerinde bulunan 3 farklı Altın, Gümüş ve Bronz Şans butonlarına istenilen bir anda istediği herhangi birine tıklanılarak tıklanılan şansın Sandığı kazanılabilir. Altın Şans her 100nci tıklayan kişiye, Gümüş Şans her 50nci tıklayan kişiye, Bronz Şans ise her 25nci tıklayan kişiye tıklanılan butonda belirtilen cinsinde Sandık verir.\n
+b)İkinci Tahmin sekmesinde ise (Geliştrici tarafından, belirli zamanı olmamaksızın istediği bir zamanda uzun vadeli veya kısa vadeli olarak tahmin sorusu, 3 cevap seçeneği, kapanış tarihini, tahminin bedeli olarak istediği bir ücreti (RİP olarak) ve tahminin ödülünü Sandık cinsi olarak belirler.) tahmin sorusuna istediğiniz bir cevabı geliştiricinin belirlediği ücreti (RİP olarak) ödeyerek ve Tahmin süresi sonuna kadar onaylayabilirsiniz.Onaylanan tahmin değiştirilemez ve iptal etme hakkı bulunmaz. Tahmin belirtilen süre sonunda kapanır ve sonuç beklemesine geçilir. Sonuç bekleme evresinde kimsenin onayı alınmaz ve onayı alınan kişilerin ise ilk evrede ki gibi değiştirme ve iptal etme hakkı bulunmaz. Sonuç bekleme evresinden sonra sonuçlar açıklanır. Açıklanan sonuçlara göre admin onayı ile kazananlara belirtilen Sandık ödülü verilir.\n
+c)Üçüncü Kazan sekmesinde sadece ödül tablosu ve sıra bilgileri görüntülenir ve burada günlük reklam izleme sayısına göre (20 den fazla ve ödül tablosunda belirtilen kazanacakların sayısı + 1000 kişi hesaplanır)sıralama oluşturulur. Sıralamada sadece veritabanında tutulur ve anlık olarak sadece her kullanıcıya sadece kendi sırası yansıtılır, geçmiş gün sonuçları olarak bir önce ki günün 1.si ve kullanıcının kendi sırası görüntülenir. Kazanılan kullancıların ödülleri admin onaylamasından sonra hesaplarına aktarılır. Ödül Tablosu geliştirici veya Adminler tarafından istedikleri kadar kişiye ve istedikleri değerler Ödüller belirlenir ve Günden güne farklılık gösterebilir.\n\n
+
+ÇEKİLİŞLERE NASIL KATILINIR VE KAZANILIR:\n
+ LuckTime Logosuna tıklanmasıyla açılan sayfada ki ödüllerin çekilişlerine katılmak için öncelikle ödülün belirtildiği ücreti RİP olarak karşıladıktan sonra (Yukarıda Belirtilen RİP nasıl kazanılır adımarı uygulanarak kazanılabilinir.) Katıl butonuna tıklamanız yeterlidir. Katıl butonuna tıkladığınızda 0 ile 1.000.000 arası rastgele bir sayı size puan olarak atanır ve puanınız eğer ki varsa daha önce katılmış en yüksek puanlı kişiden daha fazla veya aynı ise siz birinciliği ele alırsınız, eğer ki katılan yok ve ilk katılan iseniz puanınız ne olursa olsun birinci durumda olursunuz. Ve sadece birinci olan kişinin puanı tutulur. Puan atama sistemi farklı oranlarda olup ama herkese aynı oranlarda hesaplanır. Örneğin 100000 gelme olasılığı %20 iken 1000000 gelme olasılığı %1 dir. Kazanma durumunda ise Ödülde belirtilen katılım sayısının tamamen dolması yani 0’a düşmesi gerekir. Gerekli katılım sağlandıktan sonra o ana kadar ki en yükse puanı almış olan kullanıcı ödülü almaya hak kazanır. Ödül göderme işlemleri kullanıcıya email üzerinden ulaşılarak sağlanır. (Ödül gönderimi gerekli incelemelerden herhangi bir usulsüzlük kontrolü veya kazanan kulanıcının Kullanım Şartlarına uyup uymadığı gibi, kuryelerin süresi gibi nedenlerden dolayı gönderim işlemleri durumlara göre zaman alabilir, ve kesin zaman belirtilmemektedir. ) 0’a düşmeyen hiç bir ödül çekilişi bitmiş sayılmaz ve Geliştirici ve adminler herhangi bir usulüzlük gözlemdiği durumda katılımı artırabilir ve ya tekrar en başa alabilir veya tamamen iptal etme yetkisine sahiptir.
+\n\n
+LuckTime Uygulamasını indirerek,tarafınıza sağlanan veya Geliştirici tarafından toplanan sizinle ya da Uygulamaya ilgili herhangi bir bilginin Geliştirici tarafından, LucktTime Uygulamasının Gizlilik Politikası uyarınca ve LuckTime Kullanım Şartları uyarınca kulanılmasını ve Geliştiricinin bağlı varsa şirketleriyle paylaşmasını kabul edersiniz.\n\n
+LuckTime Uygulamasının indirerek,LucktTime Uygulamasının kullanımının, LuckTime Uygulamasının Kullanım Şartlarına ve LuckTime Gizlilik Politikası tabi olduğunu kabul edersiniz. Gelliştirici,kendi takdirine bağlı olarak, kullanıcı girdilerinin bir komut dosyası olduğunu veya otomatikleştirilmiş yazılımlar vasıtasıyla üretildiklerini tespit ettiği halde kullanıcıyı tamamen engelleme, ödülden men etme, bütün ödüllerin iptalini saklı tutar. Komut dosyası,script,macro vs. Gibi otomatikleştirilmiş yazılımlarla açılan hesaplar geçersizdir.\n\n
+
+ÖDÜLLER:\n
+LuckTime Uygulamasının her bir ödül çekilişinin kazananı Geliştircinin takdir yetkisinde ödül kazanacaktır. Bir Ödülü bir kişi kazanabilir. Uygulamayla ilgili konularda nihai ve bağlayıcı olan Geliştiricinin kararlarıdır.Geliştirici kazanana ödülün verilebileceğini garanti etmez. Ödül hiçbir şekilde devredilemez, havale edilemez ve hiçbir ikamesine izin verilmez. Ek olarak,Ödülün kazananın herhangi bir sebeple Ödüle ilişkin talep öne sürme hakkı yoksa ya da bu hak ortadan kalmışsa, Geliştirci herhangi bir Ödül vermeme hakkını saklı tutar. Kazanan mevzuatta kendisine yükümlülük getirien hallerde ödüle,ilişkin olarak tüm vergisel yükümlülüklerin yerine getirilmesinden sorumlu olduğunu kabul eder.\n\n
+
+ÖDÜL SEÇİMİ:\n
+Çekilişin kazananı o ödüldeki katılımın bittikten sonra ki en yüksek puana sahip olan kişi olur. Eğer en yüksek puana sahip birden fazla kişi olması durumunda o puanı alan en son kişi kazanmış olur. Kazanılan Ödüllere göre , kazanan kişi ile kazanılan email yoluyla kazanan kişiye bildirimde bulunulacaktır, bildirimden sonra email veya posta yoluyla iletilecektir . Geliştirici daha sonra farklı bir bildirim belirleme hakkını saklı tutar. Kazanan kişiye email üzerinden dönüş yapıldıktan sonra ki 2 hafta içinde geri dönüş alınmazsa, kazanılan ödüle ilişkin tüm haklarını kaybeder. Geri dönüş alınarak gönderilen ödüller kargoya verildikten sonra tüm sorumluluk kazanan kişiye ait olduğunu kabul eder ve Kazanana herhangi bir nedenden dolayı ulaşamayıp ödüün geri gelmesi durumunda, aynı şekilde kazanan kişi ödüle ilişkin tüm haklarını kaybeder. Geliştirici veya adminler ödülü tekrar diğer kullanıcalara çekiliş kalıtım miktarını istediği gibi belirler ve tekrar sunabilir ve bu insiyatif tamamen geliştirici veya adminlere bağlıdır.\n\n
+
+Uygulama ve çekiliş ödülleri tamamen Gelliştircinin gözetiminde sunulacak ve yapılacaktır. Geliştririci gerekce belirtmeksizin istediği bir ödülü iptal etme veya uygulamadan kaldırma hakkını , ayrıca Her Ödül için gerekli olan katılım miktarını, kalıtım ücretini(RİP olarak) geliştrici veya istediği gibi belirleme hakkını, Tahmin kısmında ki tahmin sorununu, cevaplarını , ücretini (RİP olarak) soru yayınlanma sıklığını, kapanma tarihini ve ödülleri gönderme işlemini istediği gibi belirleme hakkını, Kazan kısmında ki Ödül tablosunun kaç kişinin kazanacağını ve hangi ödülleri kazanacağını istediği zaman değiştirme ve yönetme hakkını saklı tutar. Son nihai karar her zaman Geliştirici’de bulunur ve Katılımcının uygunsuzluğunun saptanması durumunda, Geliştirici kendi takdirine bağlı olarak herhangi bir ödül vermemeyi seçebilir.\n\n
+
+GENEL ŞARTLAR VE BİLDİRGELER:\n
+Tüm katılımcılara duyuru (uusararası katılımcılar dahil): Yarışmaya katılmanız veya herhangi bir ödülü kazanmanız durumunda tüm ilgili mevzuata uygun hareket etmeyi kabul etmiş bulunursunuz.Uygulanabilir olduğunda Geliştirici, kazanandan on (10) iş günü içerisinde, Geliştriici tarafından hazırlanan ‘Uygunuk Belgesi’ ve ‘Sorumluuk ve Tanıtım Serbestisi’ belgelerini yahut Geliştirici tarafından uygun görülecek sair belgeleri düzenlenmesini, imzalanmasını ve Geliştriiciye ulaştırılmasını isteyebilir (Bu belgelerin hazırlanması ve Geliştiriciye ulaştırılması kazanma şartı olarak belirlenebilir). Geliştirici takdirine bağlı olarak, ödülün teslimi için ilgili vergi dökümanlarının tamamlanması şart koşulabilir. Kazanan bir ödül alabilmek için hesap bilgisi yanı sıra kimlik belgesi, adres ve doğum tarihi bilgilerini de kanıtlayan belgeler sunmak zorundadır.\n\n
+
+Katılımcı veya kazananlar, Geliştricinin kendi takdir yetkisine bağlı olarak işbu Resmi Kuralların herhangi bir hükmünü ihlal ettiklerine kanaat getirilirse Uygulamadan men edileceklerdir. Uygulamayı kullanmakla ilişkili her türlü risk münhasıran katılımcıya aittir.Geliştirici; (1) kazanan tarafından sağlanan yanlış ve eksik bilgilere dayanan başarısız veya hedefine ulaşmayan bildirimlerden, (2) kayıp, geç iletilmiş, eksik,okunaksız,muğak, yanlış yönlendirilmiş, zarar görmüş veya hedeflenen alıcı tarafından bilgisayar hatası ya da sair bir teknik nedeniyle yahut herhangi bir başka şekilde kısmen veya tamamen teslim alınmamış olan Geliştirici tarafından yapılan bildirimlere verilmiş olan, yahut bunlarla ilişkili kayıtlardan, (3) katılımcının Uygulamaya Girişini , Çekilişe Katılımını , veya Diğer RİP kazanma yöntemlerini engelleyen ya da kısıtlayan iletişim hataları, donanım yada yazıımlardan kaynaklanan her türlü hata, kayıp yada erişilemeyen ağ bağlantıları veya hatalı,eksik,yanlış ya da gecikmeli bigisayar aktarımlarından, (4) telefon ağları, bilgisayar sistemleri,bilgisayar ekipmanı, ve yazılımlardaki teknik hatalardan, program hataları ve diğer hatalardan,gecikmeli bilgisayar işlemlerinden veya ağbağlantılarından, (5) Uygulamada ki ödüller,tahminler ve reklam izleme sıralaması tamlığından veya doğruluğundan, bunlarla ilişkili sistem hatalarından, (6) Uygulamanın indirilmesi yahut herhangi bir şekilde Uygulama ile ilgili olarak katılımcı veya başka bir kişinin bilgisayarı veya mobil cihazının uğrayabileceği tüm zararlardan ve (7) Ödülün bir kısmı veya tamamına ilişkin tüm garantilerden herhangi bir şekilde sorumlu tutulamaz.\n\n
+
+UYGULAMA OLDUĞU GİBİ SUNULMAKTA OLUP GELİŞTRİCİ ÇEKİLİŞ, TAHMİN, SIRALAMA,ŞANS KISIMLARI VE BUNLARIN SONUÇLARINA İLİŞKİN OLARAK HERHANGİ BİR GARANTİ VEYA TAAHHÜT VERMEMEKTEDİR.\n\n
+
+İSBU RESMİ KURALLAR VE İLGİLİ SAİR DÖKÜMANLARDA AKSİ BELİRTİLSE DAHİ,GELİŞTRİCİ KAR KAYBI,UYGULUMAYA VE HERHANGİ BİR KISIMLARINA KATILIM NETİCESİNDE MEYDANA GELEN HİÇBİR DOĞRUDAN, DOLAYLI,ÖZEL,ARIZİ,CEZİ ZARARDAN (BUNLARLA SINIRI OLMAKSIZIN, KAR KAYBI,İTİBAR KAYBI VE BEKLENEN TASARRUFUN KAYBI DAHİL) SORUMLU OLMAYACAKTIR.GELİŞTİRCİNİN SORUMLULUĞU HER HALÜKARDA KULLANICI’NIN SON 3 (ÜÇ) AY İÇİNDE KAZANDIĞI ÖDÜL TUTARI 4000 (DÖRT BİN) TÜRK LİRASI’NDAN DAHA YÜKSEK TUTARDA OLANI İLE SINIRLI OLACAKTIR.</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="chooseway">Choose a way to load Picture</string>
+    <string name="duellodurumtlinfo">Accumulated Money</string>
+    <string name="duellotlinfo">This Money for person who watches the most ads, end of Day.</string>
+    <string name="withdrawel">WithDrawel</string>
+    <string name="iban" translatable="false">IBAN</string>
+    <string name="paracekwarn">Your money is not enough to withdrawel, at least 20 TL</string>
+    <string name="ibanwarn">"Please, Enter IBAN "</string>
+    <string name="prizeinfo1">RAFFLING</string>
+    <string name="buttoniban" translatable="false">IBAN</string>
+    <string name="buttonpromotion">Promotion Code</string>
+    <string name="successwithdrawel">Your withdraweling request forwarded.</string>
+    <string name="emptyiban">Before Withdrawel, Please Save IBAN.</string>
+    <string name="prizeinfo2">You can try your luck as unlimited.</string>
+    <string name="prizeinfo3">Person who have highest score when the raffling finished,will win the prize.</string>
+    <string name="savediban">IBAN saved. You can withdrawel.</string>
+    <string name="questionwithdrawel">Would you like to withdrawel ?</string>
+    <string name="welcome">Welcome</string>
+
+
+</resources>

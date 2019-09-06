@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="@drawable/background_gradient">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_gravity="center">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_gravity="center"
+            android:layout_margin="15dp"
+            android:layout_marginRight="30dp">
+
+            <TextView
+                android:id="@+id/input_miktar"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="4dp"
+                android:drawableStart="@drawable/ic_tlwhite"
+                android:drawableLeft="@drawable/ic_tlwhite"
+                android:drawablePadding="12dp"
+                android:textSize="20sp"
+                android:layout_marginHorizontal="10dp"
+                android:ems="10"
+                android:maxLines="1"
+                android:textColor="@color/white"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="20sp"
+                android:layout_margin="10dp"
+                android:textColor="@color/white"
+                android:id="@+id/input_question"
+                android:layout_weight="1"/>
+
+        </LinearLayout>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_weight="1"
+            android:textAllCaps="false"
+            android:text="@string/buttonproonay"
+            android:textColor="@color/endRed"
+            android:id="@+id/btn_diayes"
+            android:layout_marginHorizontal="20dp"
+            android:layout_marginBottom="10dp"
+            android:background="@drawable/background_login"
+            />
+
+    </LinearLayout>
+</LinearLayout>

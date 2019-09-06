@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:id="@+id/linchat">
+
+        <TextView
+            android:id="@+id/tv_rankno"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:paddingHorizontal="10dp"
+            android:paddingVertical="1dp"/>
+
+        <ImageView
+            android:id="@+id/im_userrankphoto"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:src="@mipmap/ic_user" />
+
+        <TextView
+            android:id="@+id/tv_rankisim"
+            android:layout_width="match_parent"
+            android:layout_gravity="center"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:paddingVertical="1dp"
+            android:paddingHorizontal="20dp"/>
+
+        <TextView
+            android:id="@+id/rankhowmuch"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="2"
+            android:layout_gravity="center"
+            android:paddingHorizontal="10dp"
+            android:paddingVertical="1dp"/>
+
+    </LinearLayout>
+
+</RelativeLayout>

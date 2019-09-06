@@ -1,0 +1,64 @@
+{
+  "project_info": {
+    "project_number": "154635204770",
+    "firebase_url": "https://luckytime-f42a2.firebaseio.com",
+    "project_id": "luckytime-f42a2",
+    "storage_bucket": "luckytime-f42a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154635204770:android:0ae8a8630d651fba",
+        "android_client_info": {
+          "package_name": "lucky.luckytime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "154635204770-qv6qgino0khivd7fif165aco555suths.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "lucky.luckytime",
+            "certificate_hash": "ce3206b9d61bc969593afba16d578b28df0e9b9a"
+          }
+        },
+        {
+          "client_id": "154635204770-n2r2u6l1bjuslfse1h41i45a238n9mev.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "lucky.luckytime",
+            "certificate_hash": "03c57ce11d504cec27d0ce2ad9cfa7139e1bae7d"
+          }
+        },
+        {
+          "client_id": "154635204770-qoe2aorho6jjs1ptusc6ge3ti6crvenl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFpATHH_Vexpwco7_m_isUJ125jcH432Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "154635204770-qoe2aorho6jjs1ptusc6ge3ti6crvenl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      },
+      "admob_app_id": "ca-app-pub-2648309604179255~4302093668"
+    }
+  ],
+  "configuration_version": "1"
+}

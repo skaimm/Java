@@ -1,0 +1,132 @@
+<resources>
+
+    //
+    <string name="controlconnection">İnternet Bağlantızı Kontrol Ediniz.</string>
+    <string name="adcantload">Reklam Yüklenemedi.</string>
+
+    //Login ve Register
+    <string name="loginactivity_emailverification">Üyelik Onayı E-mail adresinize Gönderildi. Lütfen kontrol Ediniz.</string>
+    <string name="loginactivity_authfailed">Üyeliğinizi Onaylamadınız. Lütfen Önce E-posta Adresinizden Onaylayınız..</string>
+    <string name="loginactivity_emptyfield">Lütfen Bütün Alanları Doldurunuz.</string>
+    <string name="registrationactivity_success">Kayıt Başarılı.</string>
+    <string name="registrationactivity_sameemail">Girdiğiniz E-mail Daha önce Kullanılmış.</string>
+    <string name="loginactivity_authsucces">Giriş Başarılı.</string>
+    <string name="emailonayinfo">Üyeliğinizi Onaylamadınız. Lütfen Önce E-posta Adresinizden Onaylayınız.</string>
+    <string name="acceptregister">Üye olmak için Şartları Onaylamalısınız.</string>
+    <string name="errorverify">Üyelik onayı için E-mail Gönderilemedi.Tekrar Deneyiniz</string>
+    <string name="successverify">Üyeliğinizi Onaylamak için E-mail adresinizi Kontrol Ediniz.</string>
+    <string name="errorregister">E-mail Kullanılıyor Olabilir.</string>
+    <string name="buttoninitial">Reklam Yükleniyor </string>
+
+    //promosyon
+    <string name="promotionused">Promosyon Kodu Kullandınız.</string>
+    <string name="promotionwrong">Promosyon Kodunu Yanlış Girdiniz.</string>
+    <string name="hinpromotion">Promosyon Kodu</string>
+
+    // Button setText
+    <string name="buttonjoin">Katıl</string>
+    <string name="buttonnorip">Yeterli RİP Yok</string>
+    <string name="buttonfirst">En Yüksek Puan Sizde.</string>
+    <string name="buttonfinished">Katılım Bitti</string>
+    <string name="buttonwin">Kazanan :</string>
+    <string name="buttonwon">KAZANDIN</string>
+    <string name="buttontryagain">Tekrar Dene</string>
+    <string name="buttonproonay">Onay</string>
+    <string name="buttonizle">Reklam izle</string>
+
+    // Fragment name
+    <string name="fragmentmagaza">ŞANS</string>
+    <string name="fragmenttahmin">TAHMİN</string>
+    <string name="fragmentizleme">KAZAN</string>
+
+    //Tahmin Sayfası
+    <string name="yourtahmin">Tahminin :</string>
+    <string name="tahminkapanma">Kapanma Tarihi</string>
+    <string name="tahminodul">Ödül</string>
+    <string name="tahminucret">Ücret</string>
+    <string name="tahminclosed">Tahmin Kapandı. Sonuç Bekleniyor...</string>
+    <string name="tahminfinished">TAHMİN BİTTİ</string>
+    <string name="tahminwait">Yeni Tahmin Sorusu için Lütfen Bekleyin..</string>
+
+    //info
+    <string name="lostinfo">KAYBETTİNİZ</string>
+    <string name="noboxinfo">Malesef, Açılacak Sandığınız Yok.</string>
+    <string name="gainedgold">Altın Sandık Kazandınız.</string>
+    <string name="gainedsilver">Gümüş Sandık Kazandınız.</string>
+    <string name="gainedbronz">Bronz Sandık Kazandınız.</string>
+    <string name="goldinfo">Altin Sandık</string>
+    <string name="silverinfo">Gümüş Sandık</string>
+    <string name="bronzinfo">Bronz Sandık</string>
+    <string name="gainedrip">Rip Kazandınız.</string>
+
+    //Dialog
+    <string name="askpayrip">RİP Karşılığı Onaylamak İstiyor musunuz ?</string>
+    <string name="openbox">Aç</string>
+    <string name="wantopen">Açmak mı İstiyorsunuz ?</string>
+    <string name="yes">Evet</string>
+    <string name="cancel">İptal</string>
+    <string name="photouploading">Yükleniyor...</string>
+    <string name="photouploaded">Yükleme Tamamandı.</string>
+    <string name="photouploadingerror">Yükleme Sırasında Hata Oluştu. Tekrar Deneyiniz.</string>
+
+
+    //loginRegisterLayout
+    <string name="registerinfo">KAYIT OL</string>
+    <string name="hintname">Ad - Soyad</string>
+    <string name="hintpassword">Şifre</string>
+    <string name="buttonregister">Kayıt Ol</string>
+    <string name="buttonlogin">Giriş</string>
+    <string name="textlogintoreg">Hesabınız Yok mu ?</string>
+
+    //StoreLayout
+    <string name="sansinfo">ŞANSINI DENE ( 1 RİP )</string>
+    <string name="sansaltin">Altın Şans</string>
+    <string name="sansaltininfo">Her 100. kişiye Altın Sandık verir.</string>
+    <string name="sansgumus">Gümüş Şans</string>
+    <string name="sansgumusinfo">Her 50. kişiye Gümüş Sandık verir.</string>
+    <string name="sansbronz">Bronz Şans</string>
+    <string name="sansbronzinfo">Her 25. kişiye Bronz Sandık verir.</string>
+
+    //Duello Layout
+    <string name="duelloinfo1">GUNLUK REKLAM İZLEME</string>
+    <string name="duelloinfo2">Her Gün 00:00 dan 23:59 a kadar</string>
+    <string name="duelloinfo3">Reklam İzle Sıralamaya gir Ödülleri Kazan</string>
+    <string name="prizetablo">ÖDÜL TABLOSU</string>
+    <string name="duelloduruminfo">DURUMUN</string>
+    <string name="duelloizlemeinfo">Reklam İzleme</string>
+    <string name="duellodurumduninfo">DÜNÜN ÖZETİ</string>
+    <string name="prizelistodul">Ödül :</string>
+    <string name="prizelistkatilim">Katılım :</string>
+    <string name="prizelistkatilimkalan">Kalan Katılım :</string>
+    <string name="prizelistucret">Katılım Ücreti :</string>
+    <string name="prizelistfirst">Anlık Birinci :</string>
+    <string name="profilereklam">Reklam İzleme :</string>
+    <string name="infojoin">Peşpeşe Katılımda bulunamazsınız.En az 1 Reklam İzlemelisiniz.</string>
+    <string name="buttonnojoin">Henüz Başlamadı.</string>
+    <string name="buttonfinishedwait">Sonuçlar Bekleniyor.</string>
+    <string name="sozlesmetamam">Anladım</string>
+    <string name="duelloizlemesiinfo">Sıra</string>
+    <string name="wanttry">, Şansınızı denemek istiyor musunuz ?</string>
+    <string name="tryagain">Malesef, Katıldan Aldığınız Puanınız Yetersiz.</string>
+    <string name="congratulations">Tebrikler.</string>
+    <string name="buttonsignup">Kayıt Ol</string>
+    <string name="gallery">Galeri</string>
+    <string name="camera">Kamera</string>
+    <string name="chooseway">Footoğraf Yükleme Yolunu Seçiniz!</string>
+    <string name="duellotlinfo">Burda Biriken Para Gün sonunda En çok Reklam İzleyene Verilir.</string>
+    <string name="duellodurumtlinfo">Biriken Para</string>
+    <string name="withdrawel">Para Çek</string>
+    <string name="paracekwarn">Malesef, 20 TL altında ki tutarlarda Para Çekme talebinde bulunamazsınız.</string>
+    <string name="ibanwarn">Lütfen, IBAN numarasını Giriniz.</string>
+    <string name="prizeinfo1">ÇEKİLİŞLER</string>
+    <string name="prizeinfo2">Sınırsız Katılımda bulunulabilir.</string>
+    <string name="prizeinfo3">Katılım Bittiğinde En Yüksek Puanı olan Kişi Ödülü Kazanır.</string>
+    <string name="buttonpromotion">Promosyon Kodu Gir</string>
+    <string name="successwithdrawel">Para Çekme Talebiniz iletildi.</string>
+    <string name="emptyiban">Para çekme talebinden önce Lütfen IBAN\'ınızı giriniz.</string>
+    <string name="savediban">IBAN Kaydedildi. Artık Para Çekme Talebinde Bulunabilirsiniz.</string>
+    <string name="questionwithdrawel">Para çekme talebinde bulunmak istiyor musunuz ?.</string>
+    <string name="welcome">Hoş Geldiniz</string>
+
+
+</resources>
