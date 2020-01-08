@@ -173,7 +173,6 @@ public class ProfileFragment extends Fragment {
             } else {
 
                 Toast.makeText(mContext, "camera permission denied", Toast.LENGTH_LONG).show();
-
             }
 
         }
